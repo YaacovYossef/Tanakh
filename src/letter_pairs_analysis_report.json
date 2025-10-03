@@ -1,0 +1,81 @@
+{
+  "statistics": {
+    "total_letter_pairs": 454,
+    "total_occurrences": 46426,
+    "average_occurrences": 102.26,
+    "max_occurrences": 4252,
+    "min_occurrences": 2
+  },
+  "top_10_pairs": [
+    {
+      "pair": "ום",
+      "first_letter": "ו",
+      "last_letter": "ם",
+      "count": 4252,
+      "percentage": 9.16
+    },
+    {
+      "pair": "וה",
+      "first_letter": "ו",
+      "last_letter": "ה",
+      "count": 4118,
+      "percentage": 8.87
+    },
+    {
+      "pair": "וו",
+      "first_letter": "ו",
+      "last_letter": "ו",
+      "count": 2822,
+      "percentage": 6.08
+    },
+    {
+      "pair": "וס",
+      "first_letter": "ו",
+      "last_letter": "ס",
+      "count": 1994,
+      "percentage": 4.3
+    },
+    {
+      "pair": "ופ",
+      "first_letter": "ו",
+      "last_letter": "פ",
+      "count": 1566,
+      "percentage": 3.37
+    },
+    {
+      "pair": "ור",
+      "first_letter": "ו",
+      "last_letter": "ר",
+      "count": 1530,
+      "percentage": 3.3
+    },
+    {
+      "pair": "וי",
+      "first_letter": "ו",
+      "last_letter": "י",
+      "count": 1276,
+      "percentage": 2.75
+    },
+    {
+      "pair": "ות",
+      "first_letter": "ו",
+      "last_letter": "ת",
+      "count": 1252,
+      "percentage": 2.7
+    },
+    {
+      "pair": "וך",
+      "first_letter": "ו",
+      "last_letter": "ך",
+      "count": 1128,
+      "percentage": 2.43
+    },
+    {
+      "pair": "ול",
+      "first_letter": "ו",
+      "last_letter": "ל",
+      "count": 1036,
+      "percentage": 2.23
+    }
+  ]
+}

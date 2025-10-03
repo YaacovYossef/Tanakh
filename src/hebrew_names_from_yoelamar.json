@@ -1,0 +1,5810 @@
+[
+    {
+        "name": "Abba",
+        "meaning": "Père."
+    },
+    {
+        "name": "Abihou",
+        "meaning": "C'est mon père. Fils d'Aharone (Aaron)."
+    },
+    {
+        "name": "Abraham",
+        "meaning": "Père de nombreux peuples. Premier des trois patriarches."
+    },
+    {
+        "name": "Achebèl",
+        "meaning": "D'ieu l'a fait prisonnier, Fils de Binyamine (Benjamin)."
+    },
+    {
+        "name": "Achèr",
+        "meaning": "Félicité. Fils de Yaâqov (Jacob)."
+    },
+    {
+        "name": "Adam",
+        "meaning": "La terre. Nom du premier homme."
+    },
+    {
+        "name": "Adar",
+        "meaning": "Magnifique. Mois du calendrier juif. Petit-fils de Binyamine (Benjamin)."
+    },
+    {
+        "name": "Âdaya",
+        "meaning": "Parure de D'ieu."
+    },
+    {
+        "name": "Âdi",
+        "meaning": "Ornement. Ma parure."
+    },
+    {
+        "name": "Âdièl",
+        "meaning": "Parure de D'ieu."
+    },
+    {
+        "name": "Âdine",
+        "meaning": "Délicat. Un des hommes retourné de Babylone en Israël avec Êzra."
+    },
+    {
+        "name": "Âdino",
+        "meaning": "Son délicat. Guerrier du roi David."
+    },
+    {
+        "name": "Âdlaï",
+        "meaning": "Ma parure. Fonctionnaire du roi David."
+    },
+    {
+        "name": "Adnah",
+        "meaning": "Durée. Homme de la tribu de Ménaché."
+    },
+    {
+        "name": "Adonia",
+        "meaning": "D'ieu est mon Seigneur. Fils du roi David."
+    },
+    {
+        "name": "Âdriè,",
+        "meaning": "Troupeau de D'ieu. Beau-père du roi Saül."
+    },
+    {
+        "name": "Aharone",
+        "meaning": "Je chanterais. Kohène Gadol, frère de Mochè (Moise)."
+    },
+    {
+        "name": "Ahi",
+        "meaning": "Mon frère. Homme de la tribu de Gad."
+    },
+    {
+        "name": "Ahiâm",
+        "meaning": "Frère du peuple."
+    },
+    {
+        "name": "Ahichahar",
+        "meaning": "Mon frère est le matin. Fils de Binyamine (Benjamin)."
+    },
+    {
+        "name": "Ahichar",
+        "meaning": "Mon frère chante. Fonctionnaire du roi Salomon."
+    },
+    {
+        "name": "Ahiêzer",
+        "meaning": "Mon frère est une aide. Prince de la tribu de Dan."
+    },
+    {
+        "name": "Ahimane",
+        "meaning": "Mon frère est un pain tombé du ciel, manne."
+    },
+    {
+        "name": "Ahimélèkh",
+        "meaning": "Frère du roi."
+    },
+    {
+        "name": "Ahinoâm,",
+        "meaning": "Mon frère est agréable (nom de femme dans la Bible)"
+    },
+    {
+        "name": "Ahio",
+        "meaning": "Son frère. Fils d'Abinadav, époque du roi David."
+    },
+    {
+        "name": "Ahiqam",
+        "meaning": "Mon frère se léve. Sribe du roi Josias."
+    },
+    {
+        "name": "Ahiram",
+        "meaning": "Mon frère est élevé. Fils de Binyamine (Benjamin)."
+    },
+    {
+        "name": "Ahitov",
+        "meaning": "Mon frère est bon. Petit-fils du Grand Prêtre Elie."
+    },
+    {
+        "name": "Ahiyam",
+        "meaning": "Frère de la mère. Guerrier du roi David."
+    },
+    {
+        "name": "Ahiyane",
+        "meaning": "Neveu. Homme de la tribu de Menachè."
+    },
+    {
+        "name": "Aholiav",
+        "meaning": "Tente du père. Orfèvre de Betsalel pour la construction du tabernacle."
+    },
+    {
+        "name": "Almodad",
+        "meaning": "Ne mesure pas. Petit-fils d'Êver. Almog, : Santal. Corail."
+    },
+    {
+        "name": "Alone",
+        "meaning": "Chêne. Âlvone, : Affront, injure. Guerrier du roi David."
+    },
+    {
+        "name": "Amal",
+        "meaning": "Labeur. Homme de la tribu d'Acher."
+    },
+    {
+        "name": "Amaria",
+        "meaning": "D'ieu a dit. Prêtre de l'époque de Yéhochapat."
+    },
+    {
+        "name": "Âmassa",
+        "meaning": "Celui qui porte des chargement. Général de l'armée du roi David."
+    },
+    {
+        "name": "Amassia",
+        "meaning": "Fardeau de D'ieu. Général de l'armée de Yéhochapat."
+    },
+    {
+        "name": "Ametsi",
+        "meaning": "Mon courage. Ami, : Accompagnateur d'Êzra au retour de Babylone."
+    },
+    {
+        "name": "Âmi",
+        "meaning": "Mon peuple."
+    },
+    {
+        "name": "Âmi-Or,",
+        "meaning": "Mon peuple est lumière."
+    },
+    {
+        "name": "Âmiaz",
+        "meaning": "Mon peuple est audacieux."
+    },
+    {
+        "name": "Âmichadaï",
+        "meaning": "Peuple de D'ieu. Père du prince de la tribu de Dane."
+    },
+    {
+        "name": "Âmidane",
+        "meaning": "Mon peuple a jugé."
+    },
+    {
+        "name": "Âmidror",
+        "meaning": "Mon peuple est liberté."
+    },
+    {
+        "name": "Âmièl.",
+        "meaning": "Peuple de D'ieu. Explorateur de la tribu de Dane."
+    },
+    {
+        "name": "Âmihaï",
+        "meaning": "Mon peuple est vivant."
+    },
+    {
+        "name": "Âmihoud",
+        "meaning": "Mon peuple est louange. Père du prince de la tribu d'Éfrayim."
+    },
+    {
+        "name": "Âminadav",
+        "meaning": "Mon peuple est généreux. Beau-père d'Aharone (Aaron)."
+    },
+    {
+        "name": "Amir",
+        "meaning": "Cime (avec un Alèf)."
+    },
+    {
+        "name": "Âmir",
+        "meaning": "Gerbe (avec un Âyim)."
+    },
+    {
+        "name": "Amitaï",
+        "meaning": "Ma vérité. Père du prophète Yona (Jonas)."
+    },
+    {
+        "name": "Âmite",
+        "meaning": "Compagnon. Amnone, : Fidèle. Fils aîné du roi David."
+    },
+    {
+        "name": "Amnone",
+        "meaning": "Fidèle. Fils aîné du roi David."
+    },
+    {
+        "name": "Amone",
+        "meaning": "Artiste. Fidèle. Roi de Yéhouda (Judah)."
+    },
+    {
+        "name": "Âmoq",
+        "meaning": "Profond. Prêtre de Babylone."
+    },
+    {
+        "name": "Âmos",
+        "meaning": "Chargé. Un des douze petits prophètes."
+    },
+    {
+        "name": "Amots",
+        "meaning": "Pére du prophète Yéchâya (Isaie). Gris. Energie."
+    },
+    {
+        "name": "Âmram",
+        "meaning": "Peuple nombreux. Père de Mochè, Aharone et Miryam."
+    },
+    {
+        "name": "Âna",
+        "meaning": "Il a répondu. Fils de Séïr."
+    },
+    {
+        "name": "Ânane",
+        "meaning": "Nuage."
+    },
+    {
+        "name": "Ânani",
+        "meaning": "Mon nuage. Descendant de Zéroubabel."
+    },
+    {
+        "name": "Ânania",
+        "meaning": "Nuage de D'ieu."
+    },
+    {
+        "name": "Ânat",
+        "meaning": "Réponse. Père du juge Chamgar."
+    },
+    {
+        "name": "Ânaya",
+        "meaning": "D'ieu a répondu. Ministre du temps d'Êzra."
+    },
+    {
+        "name": "Ânér",
+        "meaning": "Âniam, : Je suis le peuple. Descendant du roi Ménaché."
+    },
+    {
+        "name": "Ânouv",
+        "meaning": "Noué, bouclé. Homme de la tribu de Yéhouda (Judah)."
+    },
+    {
+        "name": "Âqiba",
+        "meaning": "Le talon. Grand maître du Talmoud."
+    },
+    {
+        "name": "Ar'èli",
+        "meaning": "Fils de Gad."
+    },
+    {
+        "name": "Ara",
+        "meaning": "Lumière. Homme de la tribu d'Acher."
+    },
+    {
+        "name": "Arad",
+        "meaning": "Il est descendu. Homme de la tribu de Benjamin."
+    },
+    {
+        "name": "Ârane",
+        "meaning": "Pin. Fils de Séïr."
+    },
+    {
+        "name": "Ardone",
+        "meaning": "Bronze. Fils de Kaleb."
+    },
+    {
+        "name": "Argamane",
+        "meaning": "Pourpre."
+    },
+    {
+        "name": "Ari",
+        "meaning": "Lion, diminutif de Arié."
+    },
+    {
+        "name": "Ariè",
+        "meaning": "Lion."
+    },
+    {
+        "name": "Arièl,",
+        "meaning": "Lion de D'ieu. Chef politique à l'époque d'Ezra. Nom d'un ange."
+    },
+    {
+        "name": "Asna",
+        "meaning": "Catastrophe. Personnes retournées en Israèl à l'époque d'Êzra."
+    },
+    {
+        "name": "Assa",
+        "meaning": "du mot Assia, guérisseur. Roi de Yéhouda (Judée)."
+    },
+    {
+        "name": "Âssaèl",
+        "meaning": "D'ieu a fait. Frère de Yoav."
+    },
+    {
+        "name": "Assaf",
+        "meaning": "Il a rassemblé. Lévi à l'époque du roi David."
+    },
+    {
+        "name": "Âssaya",
+        "meaning": "D'ieu a fait."
+    },
+    {
+        "name": "Âssièl",
+        "meaning": "D'ieu m'a fait. Homme de la tribu de Chimône (Siméon)."
+    },
+    {
+        "name": "Âtaï",
+        "meaning": "Mes moments. Guerrier du roi David."
+    },
+    {
+        "name": "Âtalia",
+        "meaning": "Moment pour D'ieu. Chef de la tribu de Binyamine (Benjamin)."
+    },
+    {
+        "name": "Âtar",
+        "meaning": "Abondance. Supplier."
+    },
+    {
+        "name": "Âtaya",
+        "meaning": "Instant de D'ieu. Homme de la tribu de Yéhouda (Judah)."
+    },
+    {
+        "name": "Âtlaï",
+        "meaning": "Mon moment."
+    },
+    {
+        "name": "Âtnièl",
+        "meaning": "D'ieu m'a répondu. Avchalom, : Père de la paix. fils du roi David."
+    },
+    {
+        "name": "Atsil",
+        "meaning": "Noble, généreux. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Avi",
+        "meaning": "Mon Père. Nom d'une femme dans la Bible. Dimunitif d'Abraham."
+    },
+    {
+        "name": "Avia",
+        "meaning": "Pére de D'ieu. Aviâz, : Père de l'audace."
+    },
+    {
+        "name": "Aviam,",
+        "meaning": "Je désire la mer. Roi de Yéhouda."
+    },
+    {
+        "name": "Aviassaf,",
+        "meaning": "Mon père a rassemblé. Fils de Qorah."
+    },
+    {
+        "name": "Avichaï",
+        "meaning": "Père du cadeau. Frère de Yoav, général de l'armée du roi David."
+    },
+    {
+        "name": "Avichouâ,",
+        "meaning": "Mon père délivre. Petit-fils du prêtre Eléazar."
+    },
+    {
+        "name": "Avichour,",
+        "meaning": "Père du rempart. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Avidane",
+        "meaning": "Mon père juge. Prince de la tribu de Binyamine (Benjamin)."
+    },
+    {
+        "name": "Avidâ,",
+        "meaning": "Mon père sait. Petit-fils d'Abraham."
+    },
+    {
+        "name": "Avigdor",
+        "meaning": "Père de la clôture. Un des noms de Mochè (Moise)."
+    },
+    {
+        "name": "Avihai",
+        "meaning": "Mon pére est vivant, Vive mon père."
+    },
+    {
+        "name": "Avihaïl",
+        "meaning": "Père du valeureux. Fils de Mérari. Père de la reine Esther."
+    },
+    {
+        "name": "Avihou",
+        "meaning": "C'est mon père. Fils d'Aharone (Aaron)."
+    },
+    {
+        "name": "Avihoud",
+        "meaning": "Père de la gloire. Petit-fils de Benyamine."
+    },
+    {
+        "name": "Avimaèl",
+        "meaning": "Mon père est d'origine divine. Petit-fils d'Ever."
+    },
+    {
+        "name": "Avimélèkh",
+        "meaning": "Père du roi. Fils du juge Guidône (Gédèon)."
+    },
+    {
+        "name": "Avinoâm",
+        "meaning": "Père du gracieux. Avissar, : Père du prince."
+    },
+    {
+        "name": "Aviram",
+        "meaning": "Mon père est élevé. Petit-fils d'Eliav, un des complices de Qorah. Petit-fils de Hièl, bâtisseur de Jéricho."
+    },
+    {
+        "name": "Avissar",
+        "meaning": "Père du prince."
+    },
+    {
+        "name": "Avital",
+        "meaning": "Père de la rosée."
+    },
+    {
+        "name": "Avitouv,",
+        "meaning": "Père du bon. Homme de la tribu de Benjamin."
+    },
+    {
+        "name": "Aviv",
+        "meaning": "Printemps."
+    },
+    {
+        "name": "Ayal",
+        "meaning": "Cerf ou daim. Âz, : Fort. Puissant."
+    },
+    {
+        "name": "Âzane",
+        "meaning": "Force. Père du prince de la tribu d'Yissakhar."
+    },
+    {
+        "name": "Âzar",
+        "meaning": "A aidé."
+    },
+    {
+        "name": "Âzaria",
+        "meaning": "D'ieu a aidé."
+    },
+    {
+        "name": "Azgad",
+        "meaning": "Joie puissante. Père de revenants de Babylone."
+    },
+    {
+        "name": "Âzrièl",
+        "meaning": "D'ieu est mon aide."
+    },
+    {
+        "name": "Âz",
+        "meaning": "Fort. Puissant."
+    },
+    {
+        "name": "Barakh-Èl",
+        "meaning": "D'ieu a béni. Père d'Èlihou, compagnon de Job."
+    },
+    {
+        "name": "Baraq",
+        "meaning": "Èclair. Chef de l'armée de Débora."
+    },
+    {
+        "name": "Baroukh",
+        "meaning": "Béni. Fils de Neria, scribe du prophète Yirmiya (Jérémie)."
+    },
+    {
+        "name": "Békhèr",
+        "meaning": "Aîné. Fils de Benyamine."
+    },
+    {
+        "name": "Bélâ",
+        "meaning": "Il fut avalé. Fils de Benyamine."
+    },
+    {
+        "name": "Bèn",
+        "meaning": "Fils."
+    },
+    {
+        "name": "Bèn-Li",
+        "meaning": "J'ai un fils."
+    },
+    {
+        "name": "Bènâmi",
+        "meaning": "Fils de mon peuple. Fils de Lote."
+    },
+    {
+        "name": "Bénaya",
+        "meaning": "Fils de D'ieu. Béni, : Mon fils."
+    },
+    {
+        "name": "Bènhanane",
+        "meaning": "Fils de la miséricorde. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Bènhayil",
+        "meaning": "Fils du courage. Ministre de Yéhochafat."
+    },
+    {
+        "name": "Béni",
+        "meaning": "Mon fils."
+    },
+    {
+        "name": "Béniyahou",
+        "meaning": "Il est fils de D'ieu."
+    },
+    {
+        "name": "Béraya",
+        "meaning": "D'ieu a créé. Fils de Benyamine."
+    },
+    {
+        "name": "Béra",
+        "meaning": "Puits. Homme de la tribu d'Acher."
+    },
+    {
+        "name": "Betsalèl",
+        "meaning": "Dans l'ombre de D'ieu, orfèvre de l'Arche Sainte et de ses ustensiles."
+    },
+    {
+        "name": "Bikhri",
+        "meaning": "Mon aîné. Père de Chéva, révolté contre le roi David."
+    },
+    {
+        "name": "Binyamine",
+        "meaning": "Fils de la droite. Benjamin, dernier fils du patriarche Yaâqov."
+    },
+    {
+        "name": "Boâz",
+        "meaning": "Le courage est en lui. Ancêtre du roi David."
+    },
+    {
+        "name": "Chabétaï",
+        "meaning": "Mes repos."
+    },
+    {
+        "name": "Chafane",
+        "meaning": "Lièvre. Scribe du roi Josias."
+    },
+    {
+        "name": "Chafat",
+        "meaning": "Il a jugé. Prince de la tribu de Chimchone (Samson)."
+    },
+    {
+        "name": "Chagè",
+        "meaning": "Il se trompe. Père de Yonatane (Jonathan), guerrier du roi David."
+    },
+    {
+        "name": "Chahar",
+        "meaning": "L'aube."
+    },
+    {
+        "name": "Chaï",
+        "meaning": "Cadeau."
+    },
+    {
+        "name": "Chakhania,",
+        "meaning": "D'ieu a résidé. Revenant de Babylone."
+    },
+    {
+        "name": "Chalom",
+        "meaning": "La paix."
+    },
+    {
+        "name": "Chalone",
+        "meaning": "Serin. Constructeur des murailles de Jérusalem (époque de Néhémie)."
+    },
+    {
+        "name": "Chaloum",
+        "meaning": "Intègre. Roi en Israël."
+    },
+    {
+        "name": "Chalvi",
+        "meaning": "Ma tranquilité."
+    },
+    {
+        "name": "Chama",
+        "meaning": "Là-bas. Homme de la tribu d'Achèr."
+    },
+    {
+        "name": "Chamgar",
+        "meaning": "J'habite là-bas. Juge fils d'Anatte."
+    },
+    {
+        "name": "Chamir",
+        "meaning": "Paliure. Nom d'un ver qui peut tailler la pierre."
+    },
+    {
+        "name": "Chamouâ",
+        "meaning": "Entendu. Un des 12 explorateurs."
+    },
+    {
+        "name": "Chaoul",
+        "meaning": "Emprunté. Saül Premier Roi d'Israël."
+    },
+    {
+        "name": "Charone",
+        "meaning": "Petit chant."
+    },
+    {
+        "name": "Chavia",
+        "meaning": "D'ieu est revenu. Autre nom de Sakhia de la tribu de Benyamine."
+    },
+    {
+        "name": "Chéaltièl",
+        "meaning": "J'ai demandé à D'ieu. Père de Zéroubabèl."
+    },
+    {
+        "name": "Chéar-Yachouv",
+        "meaning": "Le reste reviendra. Fils du prophète Isaïe."
+    },
+    {
+        "name": "Chéâriya",
+        "meaning": "D'ieu a imaginé. Porte de D'. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Chéchèt",
+        "meaning": "Les Six. Maître du Talmud de Babylone."
+    },
+    {
+        "name": "Chedéour",
+        "meaning": "D'ieu de lumière. Père d'Élitsour, prince de la tribu de Réouvène."
+    },
+    {
+        "name": "Chéfatia",
+        "meaning": "D'ieu a jugé. Un des fils de David."
+    },
+    {
+        "name": "Chéhariya",
+        "meaning": "Aube de D'ieu. Descendant de Benyamine."
+    },
+    {
+        "name": "Chéla",
+        "meaning": "A elle. Troisième fils de Yéhouda."
+    },
+    {
+        "name": "Chélèche",
+        "meaning": "Trellis. Homme de la tribu d'Achèr."
+    },
+    {
+        "name": "Chélèg",
+        "meaning": "Neige."
+    },
+    {
+        "name": "Chélémiya",
+        "meaning": "Intégrité de D'ieu. Ministre de Joachim."
+    },
+    {
+        "name": "Chélomo",
+        "meaning": "Sa paix. Parfait. Salomon, troisième roi d'Israël, fils du roi David et de Betsabée."
+    },
+    {
+        "name": "Chèm,",
+        "meaning": "Le nom. Un des fils de Noah (Noé)."
+    },
+    {
+        "name": "Chèm-Tov,",
+        "meaning": "Le bon nom."
+    },
+    {
+        "name": "Chémâya",
+        "meaning": "Ecoute D'ieu. Prophéte. Un des premier cité dans les Maximes des Pères."
+    },
+    {
+        "name": "Chéma",
+        "meaning": "Retentissement. Prêtre du temps de Néhémiya."
+    },
+    {
+        "name": "Chémèche",
+        "meaning": "Soleil."
+    },
+    {
+        "name": "Chémèd",
+        "meaning": "Persécution. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Chémèr",
+        "meaning": "Levain. Vendeur des Monts de Chomrone au roi Omri."
+    },
+    {
+        "name": "Chémida",
+        "meaning": "Connais mon nom. Fils de Guilead, petit-fils de Ménaché."
+    },
+    {
+        "name": "Chémouèl",
+        "meaning": "Son Nom est D'ieu. Samuel, grand Prophète."
+    },
+    {
+        "name": "Chénéour",
+        "meaning": "Deux lumières."
+    },
+    {
+        "name": "Chévania,",
+        "meaning": "Retour de D'ieu. Lévite du temps d'Ézra."
+    },
+    {
+        "name": "Chévâ,",
+        "meaning": "Serment. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Cheva,",
+        "meaning": "Un des fils de Qalèv. Autre orthographe hébraïque, Qui vient. Fils de Yoqane"
+    },
+    {
+        "name": "Chévèr",
+        "meaning": "Blé ou fracture. Fils de Qalèv."
+    },
+    {
+        "name": "Chévna",
+        "meaning": "Je te prie de t'installer. Scribe d'Ézekias."
+    },
+    {
+        "name": "Chévouèl",
+        "meaning": "Retournez à D'ieu. Petit-fils de Mochè."
+    },
+    {
+        "name": "Chiféyi",
+        "meaning": "Mon abondance. Descendant de Chimône."
+    },
+    {
+        "name": "Chiftane",
+        "meaning": "Sentencieux. Prince de la tribu de Éfrayim."
+    },
+    {
+        "name": "Chihi",
+        "meaning": "Envoi. Beau-père d'Assa, roi de Yéhouda."
+    },
+    {
+        "name": "Chilcha",
+        "meaning": "Groupe de trois. Homme de la tribu d'Acher."
+    },
+    {
+        "name": "Chilèm",
+        "meaning": "Il a complété. Fils de Naftalie."
+    },
+    {
+        "name": "Chimchaï",
+        "meaning": "Mes soleils. Scribe du temps d'Ezra."
+    },
+    {
+        "name": "Chimchone",
+        "meaning": "Petit soleil. Samson."
+    },
+    {
+        "name": "Chiméâ",
+        "meaning": "Entendu. Variante de Chama, frère du roi David."
+    },
+    {
+        "name": "Chiméyî",
+        "meaning": "Écoute-moi. Fils de Guérade la tribu de Benyamine."
+    },
+    {
+        "name": "Chimône",
+        "meaning": "Il a entendu ma souffrance. Siméon descendant de Yaâqov."
+    },
+    {
+        "name": "Chir",
+        "meaning": "Chant, poème."
+    },
+    {
+        "name": "Chimrat",
+        "meaning": "La garde. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Chimri",
+        "meaning": "Garde. Père d'un guerrier du roi David."
+    },
+    {
+        "name": "Chimrone",
+        "meaning": "Petit gardien. Fils d'Yissakhar."
+    },
+    {
+        "name": "Chirane",
+        "meaning": "Chant, poème."
+    },
+    {
+        "name": "Chlomi",
+        "meaning": "Ma Paix. Père du prince de la tribu d'Acher."
+    },
+    {
+        "name": "Choham",
+        "meaning": "Onyx."
+    },
+    {
+        "name": "Chomère",
+        "meaning": "Le gardien."
+    },
+    {
+        "name": "Chouâl",
+        "meaning": "Renard. Descendant d'Acher."
+    },
+    {
+        "name": "Chouni",
+        "meaning": "Différence. Fils de Gad."
+    },
+    {
+        "name": "Chouvaèl",
+        "meaning": "Retournez à D'ieu."
+    },
+    {
+        "name": "Chovaï",
+        "meaning": "Mes retours. Lévi revenant de Babylone."
+    },
+    {
+        "name": "Chovakh",
+        "meaning": "Colombier. Général de l'armée du roi Tsova. (Sam. 2,10)."
+    },
+    {
+        "name": "Choval",
+        "meaning": "Traîne de robe. Fils de Yéhouda (Juda)."
+    },
+    {
+        "name": "Chovav",
+        "meaning": "Polisson,Espiegle."
+    },
+    {
+        "name": "Chraga",
+        "meaning": "Chandelle."
+    },
+    {
+        "name": "Dagane",
+        "meaning": "Le froment."
+    },
+    {
+        "name": "Dan",
+        "meaning": "Il juge. Un des fils de Yaâqov (Jacob)."
+    },
+    {
+        "name": "Dani",
+        "meaning": "Diminutif de Daniel."
+    },
+    {
+        "name": "Daniel",
+        "meaning": "D'ieu m'a Jugé. Le visionnaire descendant du roi David."
+    },
+    {
+        "name": "David",
+        "meaning": "Le chéri. Fils de Ichaï, roi d'Israël."
+    },
+    {
+        "name": "Dayane",
+        "meaning": "Le juge. Délaya : Puisage. Descendant de Zéroubabèl."
+    },
+    {
+        "name": "Déqèl",
+        "meaning": "Palmier."
+    },
+    {
+        "name": "Déqèr",
+        "meaning": "Pioche. Père d'un ministre du roi Salomon."
+    },
+    {
+        "name": "Dimone",
+        "meaning": "d'après le nom d'une ville."
+    },
+    {
+        "name": "Diqla",
+        "meaning": "Palmier. Un des fils de Yoqtane.(Gen. 10,27)."
+    },
+    {
+        "name": "Divri",
+        "meaning": "Mon temple. Homme de la tribu de Dan."
+    },
+    {
+        "name": "Dodaï",
+        "meaning": "Mes oncles. Guerrier du roi David."
+    },
+    {
+        "name": "Doeg",
+        "meaning": "Il s'inquiète. Berger du temps du roi Chaoul (Saul)."
+    },
+    {
+        "name": "Dor",
+        "meaning": "Époque. Génération."
+    },
+    {
+        "name": "Dorâm,",
+        "meaning": "Génération du peuple."
+    },
+    {
+        "name": "Dori",
+        "meaning": "Ma génération."
+    },
+    {
+        "name": "Dorone",
+        "meaning": "Cadeau."
+    },
+    {
+        "name": "Dotane",
+        "meaning": "Puiseur. Nom d'une ville."
+    },
+    {
+        "name": "Doubi",
+        "meaning": "Mon ours. Doudou, : dérivé de David."
+    },
+    {
+        "name": "Doudou",
+        "meaning": "dérivé de David."
+    },
+    {
+        "name": "Dov",
+        "meaning": "Ours."
+    },
+    {
+        "name": "Dovèv",
+        "meaning": "Il chuchote."
+    },
+    {
+        "name": "Dror",
+        "meaning": "Liberté."
+    },
+    {
+        "name": "Dvir",
+        "meaning": "Sanctuaire, aussi nom d'une ville."
+    },
+    {
+        "name": "Échèl",
+        "meaning": "Tamaris."
+    },
+    {
+        "name": "Echkol",
+        "meaning": "Grappe de raisin."
+    },
+    {
+        "name": "Êden",
+        "meaning": "Délice (avec âyin)."
+    },
+    {
+        "name": "Eden.",
+        "meaning": "Pére et Maitre (avec alèf)."
+    },
+    {
+        "name": "Êdèr",
+        "meaning": "Troupeau. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Éfère",
+        "meaning": "Poussiéreux. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Éfod",
+        "meaning": "Mantelet faisant partie de l'habillement du Grand Prêtre. Père du prince de la tribu de Ménachè."
+    },
+    {
+        "name": "Èfrayim",
+        "meaning": "Je fructifierai. Fils de Yossèf (Joseph)."
+    },
+    {
+        "name": "Èhoud",
+        "meaning": "Sympathique. Juge fils de Guéra."
+    },
+    {
+        "name": "Èléâzar",
+        "meaning": "D'ieu a Aidé. Lazare en français. Fils d'Aharone le Grand Prêtre."
+    },
+    {
+        "name": "Èlhanane",
+        "meaning": "D'ieu a eu pitié. D'ieu a gracié. Neveu de Yoav."
+    },
+    {
+        "name": "Èlie",
+        "meaning": "Mon D'ieu. Diminutif d'Èliyahou (avec Alef au début)."
+    },
+    {
+        "name": "Êlie",
+        "meaning": "Pilon. Supérieur (avec âyine)."
+    },
+    {
+        "name": "Èlia",
+        "meaning": "D'ieu de D'ieu. Diminutif de Èliyahou."
+    },
+    {
+        "name": "Èlichâ",
+        "meaning": "D'ieu Sauve. D'ieu Agrée."
+    },
+    {
+        "name": "Èlièl",
+        "meaning": "Mon D'ieu est D'ieu. Ancêtre du roi Menaché."
+    },
+    {
+        "name": "Èliêzèr",
+        "meaning": "D'ieu est mon aide. Serviteur d'Abraham."
+    },
+    {
+        "name": "Èlifal",
+        "meaning": "Mon D'ieu est extraordinaire. Guerrier du roi David."
+    },
+    {
+        "name": "Èlihou",
+        "meaning": "Il est mon D'ieu. Compagnon de Yov (Job)."
+    },
+    {
+        "name": "Èlimélèkh",
+        "meaning": "D'ieu est un Roi. Mari de Noémie."
+    },
+    {
+        "name": "Elisée",
+        "meaning": "prophète disciple du prophète Elie."
+    },
+    {
+        "name": "Èlior",
+        "meaning": "Mon D'ieu est Lumière."
+    },
+    {
+        "name": "Èliôz",
+        "meaning": "D'ieu est ma Force."
+    },
+    {
+        "name": "Èlipaz",
+        "meaning": "D'ieu est l'or pur. Compagnon de Iyov (Job)."
+    },
+    {
+        "name": "Éliqa",
+        "meaning": "D'ieu est D'ieu. Guerrier du roi David."
+    },
+    {
+        "name": "Èliram",
+        "meaning": "D'ieu est élevé."
+    },
+    {
+        "name": "Èlirone",
+        "meaning": "D'ieu est joie."
+    },
+    {
+        "name": "Èlitsour",
+        "meaning": "D'ieu est un rocher. Prince de la tribu de Réouvène (Ruben)."
+    },
+    {
+        "name": "Éliyadâ",
+        "meaning": "D'ieu savait. Fils du roi David."
+    },
+    {
+        "name": "Èliyahou",
+        "meaning": "C'est mon D'ieu. Prophète Élie, originaire de la ville de Tichebi."
+    },
+    {
+        "name": "Èliyakim",
+        "meaning": "D'ieu élèvera."
+    },
+    {
+        "name": "Èliyakoum",
+        "meaning": "D'ieu se lèvera."
+    },
+    {
+        "name": "Èlnaâme",
+        "meaning": "D'ieu est agréable. Père de deux guerriers du roi David."
+    },
+    {
+        "name": "Èlnatane",
+        "meaning": "D'ieu a donné. (ministre du roi Joachim)."
+    },
+    {
+        "name": "Élone",
+        "meaning": "Le Chêne. Fils de Zébouloune."
+    },
+    {
+        "name": "Èlqana",
+        "meaning": "D'ieu a acquis."
+    },
+    {
+        "name": "Èlqayam",
+        "meaning": "D'ieu existe."
+    },
+    {
+        "name": "Êrad",
+        "meaning": "Expulsé. Fils de Hanokh."
+    },
+    {
+        "name": "Êrane",
+        "meaning": "Éveillé. Petit fils d'Èfrayim."
+    },
+    {
+        "name": "Érez",
+        "meaning": "Cèdre."
+    },
+    {
+        "name": "Êri",
+        "meaning": "Mon éveillé. Un des fils de Gad."
+    },
+    {
+        "name": "Êr",
+        "meaning": "Éveillé. Fils aîné de Yéhouda."
+    },
+    {
+        "name": "Étane,",
+        "meaning": "Impétuosité. Sage et poète."
+    },
+    {
+        "name": "Etni",
+        "meaning": "Je donnerai. Lévite."
+    },
+    {
+        "name": "Êvèr",
+        "meaning": "L'au-delà de.. Petit-fils de Chèm."
+    },
+    {
+        "name": "Eviassaf",
+        "meaning": "Mon père rassemblera. Fils de Qorah."
+    },
+    {
+        "name": "Eviattar",
+        "meaning": "Mon père a exploré. Fils du prêtre Ahimélèkh, Sam. 22-20."
+    },
+    {
+        "name": "Éyal",
+        "meaning": "Courage."
+    },
+    {
+        "name": "Êzer",
+        "meaning": "Aide."
+    },
+    {
+        "name": "Êzra",
+        "meaning": "Une aide."
+    },
+    {
+        "name": "Êzri",
+        "meaning": "Mon aide. Prince de l'époque du roi David, Chron. 27-26."
+    },
+    {
+        "name": "Gabi",
+        "meaning": "Diminutif de Gabrièl."
+    },
+    {
+        "name": "Gabrièl",
+        "meaning": "D'ieu est ma Force. Ange de la vision de Daniel."
+    },
+    {
+        "name": "Gad",
+        "meaning": "Bonheur. Fils de Yaâqov (Jacob)."
+    },
+    {
+        "name": "Gaddi",
+        "meaning": "Agneau. Ma Joie. Un des douze explorateurs de la tribu de Ménaché."
+    },
+    {
+        "name": "Gaddièl,",
+        "meaning": "Agneau de D'ieu. Bonheur de D'ieu. Un des douze explorateurs."
+    },
+    {
+        "name": "Gal",
+        "meaning": "Vague. Dévoilement."
+    },
+    {
+        "name": "Gali",
+        "meaning": "Ma vague."
+    },
+    {
+        "name": "Galil",
+        "meaning": "d'après le nom de la région. Cylindre."
+    },
+    {
+        "name": "Gamlièl",
+        "meaning": "D'ieu a été généreux avec moi. Prince de la tribu de Ménaché."
+    },
+    {
+        "name": "Gane",
+        "meaning": "Jardin."
+    },
+    {
+        "name": "Gaone",
+        "meaning": "Génie."
+    },
+    {
+        "name": "Gavri",
+        "meaning": "Viril."
+    },
+    {
+        "name": "Goël",
+        "meaning": "Il Délivre."
+    },
+    {
+        "name": "Golane",
+        "meaning": "D'après le nom de la région."
+    },
+    {
+        "name": "Gomère",
+        "meaning": "Il termine. Fils de Yafèt."
+    },
+    {
+        "name": "Gouni",
+        "meaning": "Mon protecteur. Fils de Naftalie."
+    },
+    {
+        "name": "Gour",
+        "meaning": "Jeune animal."
+    },
+    {
+        "name": "Gour-Arié",
+        "meaning": "Lionceau."
+    },
+    {
+        "name": "Guéchèm",
+        "meaning": "Pluie."
+    },
+    {
+        "name": "Guédalia",
+        "meaning": "D'ieu a fait grandir."
+    },
+    {
+        "name": "Guédaliahou",
+        "meaning": "Est grandi de D'ieu."
+    },
+    {
+        "name": "Guédor",
+        "meaning": "Barrière, limite. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Guéfène",
+        "meaning": "Vigne."
+    },
+    {
+        "name": "Guémali",
+        "meaning": "Mon chameau, ma générosité. Père du prince de la tribu de Dan."
+    },
+    {
+        "name": "Guémaria",
+        "meaning": "D'ieu a terminé. Ministre de Tsidkiahou."
+    },
+    {
+        "name": "Guéouèl",
+        "meaning": "Majesté de D'ieu."
+    },
+    {
+        "name": "Guéra",
+        "meaning": "Étrangére. Petite mesure de poids. Grain."
+    },
+    {
+        "name": "Guerchom",
+        "meaning": "Il habite là-bas. Etranger là-bas."
+    },
+    {
+        "name": "Guerchone",
+        "meaning": "Il habite là-bas. Il est Etranger là-bas."
+    },
+    {
+        "name": "Guévèr",
+        "meaning": "Homme. Un fonctionnaire du roi Salomon."
+    },
+    {
+        "name": "Guéyichane",
+        "meaning": "La vallée du nouveau. Descendant de Yéhouda (Juda)."
+    },
+    {
+        "name": "Guibor",
+        "meaning": "Héros."
+    },
+    {
+        "name": "Guidi",
+        "meaning": "Diminutif de Guidône."
+    },
+    {
+        "name": "Guidône",
+        "meaning": "Saison de chance."
+    },
+    {
+        "name": "Guidôni",
+        "meaning": "Ma maison de chance."
+    },
+    {
+        "name": "Guil",
+        "meaning": "Joie."
+    },
+    {
+        "name": "Guilâd",
+        "meaning": "Colline du serment."
+    },
+    {
+        "name": "Guilâdi,",
+        "meaning": "Originaire de la région de Guilâd."
+    },
+    {
+        "name": "Guilboâ",
+        "meaning": "D'après le nom des monts."
+    },
+    {
+        "name": "Guili",
+        "meaning": "Ma joie."
+    },
+    {
+        "name": "Guinossar",
+        "meaning": "D'après le nom de la vallée."
+    },
+    {
+        "name": "Guiora",
+        "meaning": "Vallée de Lumière."
+    },
+    {
+        "name": "Guitaï",
+        "meaning": "Mon pressoir."
+    },
+    {
+        "name": "Guivône",
+        "meaning": "Petite colline."
+    },
+    {
+        "name": "Habaqouq",
+        "meaning": "Nom d'un prophète."
+    },
+    {
+        "name": "Haboub",
+        "meaning": "Mon chéri."
+    },
+    {
+        "name": "Hadar",
+        "meaning": "Splendeur."
+    },
+    {
+        "name": "Hadasse",
+        "meaning": "Myrrhe."
+    },
+    {
+        "name": "Hadour",
+        "meaning": "Beauté."
+    },
+    {
+        "name": "Hadrièl",
+        "meaning": "Splendeur de D'ieu."
+    },
+    {
+        "name": "Hagaï",
+        "meaning": "Mes festivités."
+    },
+    {
+        "name": "Hagoèl",
+        "meaning": "Le délivreur."
+    },
+    {
+        "name": "Hagui",
+        "meaning": "Ma fête."
+    },
+    {
+        "name": "Haï",
+        "meaning": "Vivant."
+    },
+    {
+        "name": "Haïl",
+        "meaning": "Force. Réussite."
+    },
+    {
+        "name": "Hanane",
+        "meaning": "Miséricordieux."
+    },
+    {
+        "name": "Hananél",
+        "meaning": "D'ieu a gracier."
+    },
+    {
+        "name": "Hanania",
+        "meaning": "D'ieu a eu pitié."
+    },
+    {
+        "name": "Hanokh",
+        "meaning": "Éducateur."
+    },
+    {
+        "name": "Hanoune",
+        "meaning": "Miséricordieux."
+    },
+    {
+        "name": "Haskèl",
+        "meaning": "Intelligent."
+    },
+    {
+        "name": "Haviv",
+        "meaning": "Aimable. Favori."
+    },
+    {
+        "name": "Hayim,",
+        "meaning": "La vie."
+    },
+    {
+        "name": "Hazaya",
+        "meaning": "Vision de D'ieu. Homme du royaume de Yéhouda."
+    },
+    {
+        "name": "Hazièl",
+        "meaning": "Vision de D'ieu. Chef de la famille des Gersonides à l'époque du roi David."
+    },
+    {
+        "name": "Hédèr",
+        "meaning": "Splendeur."
+    },
+    {
+        "name": "Hédvi",
+        "meaning": "Joyeux."
+    },
+    {
+        "name": "Héfèts,",
+        "meaning": "Dévoué."
+    },
+    {
+        "name": "Héldaï",
+        "meaning": "Mondes. Prêtre exilé en Babylonie."
+    },
+    {
+        "name": "Hélèd",
+        "meaning": "Monde. Guerrier du roi David."
+    },
+    {
+        "name": "Hélèm",
+        "meaning": "Convenable. Descendant d'Acher."
+    },
+    {
+        "name": "Hélèq",
+        "meaning": "Une part. Petit-fils de Ménaché."
+    },
+    {
+        "name": "Hélèts",
+        "meaning": "Dévoué. Guerrier du roi David."
+    },
+    {
+        "name": "Hélèv",
+        "meaning": "Graisse. Guerrier du roi David."
+    },
+    {
+        "name": "Hélone",
+        "meaning": "Courage. Père du prince de la tribu de Zévouloune."
+    },
+    {
+        "name": "Hémdane",
+        "meaning": "Gracieux. Fils de Séir."
+    },
+    {
+        "name": "Hène",
+        "meaning": "Grâce. Un des revenants de Babylone."
+    },
+    {
+        "name": "Héssèd",
+        "meaning": "Bonté. Père d'un fonctionnaire du roi Salomon."
+    },
+    {
+        "name": "Héver",
+        "meaning": "Celui qui unit. Petit-fils d'Acher. Mari de Yaêl. Un des noms de Moïse."
+    },
+    {
+        "name": "Hézione",
+        "meaning": "Visionnaire. Ancêtre du roi Aram."
+    },
+    {
+        "name": "Hezqi",
+        "meaning": "Ma force. Homme de la tribu de Benjamin."
+    },
+    {
+        "name": "Hidaï",
+        "meaning": "Mes échos. Guerrier du roi David."
+    },
+    {
+        "name": "Hillel",
+        "meaning": "Louange."
+    },
+    {
+        "name": "Hiyèl",
+        "meaning": "Force. Courage. Réussite."
+    },
+    {
+        "name": "Hizqiya",
+        "meaning": "Renforcement de D'ieu."
+    },
+    {
+        "name": "Hizqiyahou",
+        "meaning": "Roi d'Israël. Fort de D'ieu."
+    },
+    {
+        "name": "Hochamâ",
+        "meaning": "D'ieu a entendu. Fils de Yékhoniya, roi de Yéhouda."
+    },
+    {
+        "name": "Hochâya",
+        "meaning": "D'ieu a sauvé."
+    },
+    {
+        "name": "Hochéâ",
+        "meaning": "D'ieu a agréé."
+    },
+    {
+        "name": "Hod",
+        "meaning": "Splendeur."
+    },
+    {
+        "name": "Hodiya",
+        "meaning": "Louange de D'ieu."
+    },
+    {
+        "name": "Hossa",
+        "meaning": "Sa miséricorde. Gardien du Temple au temps du roi David."
+    },
+    {
+        "name": "Hotir",
+        "meaning": "Il a laissé en héritage. Lévite chanteur."
+    },
+    {
+        "name": "Houba",
+        "meaning": "Chéri. Homme de la tribu d'Acher."
+    },
+    {
+        "name": "Houchaï",
+        "meaning": "Sensible. Ami du roi David."
+    },
+    {
+        "name": "Houchim",
+        "meaning": "Les sens. Fils de Dane."
+    },
+    {
+        "name": "Houre",
+        "meaning": "Père de Bétsalèl."
+    },
+    {
+        "name": "Houraï",
+        "meaning": "Mes dentelles. Guerrier du roi David."
+    },
+    {
+        "name": "Houram",
+        "meaning": "Leur dentelle. Petit-fils de Benjamin."
+    },
+    {
+        "name": "Houri",
+        "meaning": "Ajouré. Homme de la tribu de Gad."
+    },
+    {
+        "name": "Hovav",
+        "meaning": "Aimable."
+    },
+    {
+        "name": "Ichaï,",
+        "meaning": "Il y a un Cadeau. Père du Roi David."
+    },
+    {
+        "name": "Îdane",
+        "meaning": "Saison. Temps."
+    },
+    {
+        "name": "Îmanouèl",
+        "meaning": "D'ieu est avec nous."
+    },
+    {
+        "name": "Îra",
+        "meaning": "Ville. Prêtre du roi David."
+    },
+    {
+        "name": "Idane",
+        "meaning": "Saison. Temps."
+    },
+    {
+        "name": "Igal",
+        "meaning": "Délivrera."
+    },
+    {
+        "name": "Ilaî",
+        "meaning": "Suprême. Guerrier du roi David."
+    },
+    {
+        "name": "Ilane",
+        "meaning": "Arbre."
+    },
+    {
+        "name": "Imèr",
+        "meaning": "Père. Prêtre du temps de Jérémie."
+    },
+    {
+        "name": "Imri",
+        "meaning": "Ma parole."
+    },
+    {
+        "name": "Inbal",
+        "meaning": "Clochette."
+    },
+    {
+        "name": "Inbar",
+        "meaning": "Ambre."
+    },
+    {
+        "name": "Iri",
+        "meaning": "Mon ange. Fils de Béla."
+    },
+    {
+        "name": "Irone",
+        "meaning": "Petit ange. Citadin."
+    },
+    {
+        "name": "Issaskhar",
+        "meaning": "Récompense. Fils de Yaâcov (Jacob)."
+    },
+    {
+        "name": "Irou",
+        "meaning": "Ange. Fils de Qalèv."
+    },
+    {
+        "name": "Israèl",
+        "meaning": "Voir Yisraèl. État du Proche-Orient."
+    },
+    {
+        "name": "Itaï",
+        "meaning": "Mon épellation."
+    },
+    {
+        "name": "Itamar",
+        "meaning": "Oasis."
+    },
+    {
+        "name": "Itièl",
+        "meaning": "Épellation de D'ieu. D'ieu est avec moi."
+    },
+    {
+        "name": "Ivtsane",
+        "meaning": "Mon père est un bouclier. Juge."
+    },
+    {
+        "name": "Kalaï",
+        "meaning": "Grains grillés ou mes légèretés. Père du temps de Joachim."
+    },
+    {
+        "name": "Kaleb",
+        "meaning": "Comme le coeur. Fils de Yéfounè."
+    },
+    {
+        "name": "Kéfir",
+        "meaning": "Lionceau."
+    },
+    {
+        "name": "Kémouèl",
+        "meaning": "D'ieu fait exister. Prince de la tribu d'Efrayim."
+    },
+    {
+        "name": "Kétèr",
+        "meaning": "Couronne."
+    },
+    {
+        "name": "Kiléav",
+        "meaning": "Mon père est tout. Fils du roi David."
+    },
+    {
+        "name": "Kinor",
+        "meaning": "Violon."
+    },
+    {
+        "name": "Kots",
+        "meaning": "Celui qui réveille ou épine. Descendant de Yéhouda (Juda)."
+    },
+    {
+        "name": "Laèl",
+        "meaning": "Pour D'ieu. Père d'Eliassaf, prince des Gersonides."
+    },
+    {
+        "name": "Lahad",
+        "meaning": "Pour la majesté. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Lahav",
+        "meaning": "Flamme."
+    },
+    {
+        "name": "Lahmi",
+        "meaning": "Mon pain. Frère de Goliath."
+    },
+    {
+        "name": "Lanouèl",
+        "meaning": "D'ieu est pour nous."
+    },
+    {
+        "name": "Latif",
+        "meaning": "Doux et velouté."
+    },
+    {
+        "name": "Lavane",
+        "meaning": "Blanc. Beau-père de Jacob."
+    },
+    {
+        "name": "Lavi",
+        "meaning": "Lion."
+    },
+    {
+        "name": "Laviv",
+        "meaning": "Cordial."
+    },
+    {
+        "name": "Léchème",
+        "meaning": "Opale."
+    },
+    {
+        "name": "Lév",
+        "meaning": "Coeur."
+    },
+    {
+        "name": "Lévanone",
+        "meaning": "Liban."
+    },
+    {
+        "name": "Lévi",
+        "meaning": "Celui qui accompagne."
+    },
+    {
+        "name": "Liâd",
+        "meaning": "Eternellement pour moi."
+    },
+    {
+        "name": "Liâm",
+        "meaning": "Un peuple pour moi."
+    },
+    {
+        "name": "Liêzèr",
+        "meaning": "Une aide pour moi."
+    },
+    {
+        "name": "Lilo",
+        "meaning": "Ce qui est à moi est à lui."
+    },
+    {
+        "name": "Limone",
+        "meaning": "Citron."
+    },
+    {
+        "name": "Limor",
+        "meaning": "Il est pour moi comme de la myrrhe."
+    },
+    {
+        "name": "Lior",
+        "meaning": "Pour moi la lumière."
+    },
+    {
+        "name": "Liori",
+        "meaning": "Pour moi ma lumière."
+    },
+    {
+        "name": "Liôz",
+        "meaning": "Pour moi l'audace."
+    },
+    {
+        "name": "Liqhi",
+        "meaning": "Mon héritage. Homme de la tribu de Ménaché."
+    },
+    {
+        "name": "Liram",
+        "meaning": "Pour moi la hauteur."
+    },
+    {
+        "name": "Lirone",
+        "meaning": "Pour moi le chant."
+    },
+    {
+        "name": "Lotane",
+        "meaning": "Pour moi. Fils de Séir."
+    },
+    {
+        "name": "Loud",
+        "meaning": "Accouché. Fils de Chem.        Maguide : Conteur."
+    },
+    {
+        "name": "Maâts",
+        "meaning": "Celui qui conseille. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Maayé",
+        "meaning": "Diminutif de Maazia, prêtre du temps d'Êzra."
+    },
+    {
+        "name": "Maâzia",
+        "meaning": "Refuge de D'ieu. Prêtre du temps d'Êzra."
+    },
+    {
+        "name": "Maêssaï",
+        "meaning": "Action de D'ieu."
+    },
+    {
+        "name": "Magdièl",
+        "meaning": "Douceur de D'ieu. Prince descendant d'Esaü."
+    },
+    {
+        "name": "Maguide",
+        "meaning": "Conteur."
+    },
+    {
+        "name": "Mahlone",
+        "meaning": "Celui qui pardonne. Premier mari de Ruth."
+    },
+    {
+        "name": "Mahol",
+        "meaning": "Danse. Père de savant."
+    },
+    {
+        "name": "Maïmone",
+        "meaning": "Nom du père de Maïmonide."
+    },
+    {
+        "name": "Malakhi",
+        "meaning": "Mon ange."
+    },
+    {
+        "name": "Malkam",
+        "meaning": "Leur roi. Homme de la tribu de Benjamin."
+    },
+    {
+        "name": "Malkièl",
+        "meaning": "D'ieu est mon Roi."
+    },
+    {
+        "name": "Manoah,",
+        "meaning": "Repos. Père de Samson."
+    },
+    {
+        "name": "Maor",
+        "meaning": "Astre."
+    },
+    {
+        "name": "Maskil",
+        "meaning": "Intelligent."
+    },
+    {
+        "name": "Matane",
+        "meaning": "Cadeau. Donation."
+    },
+    {
+        "name": "Mati",
+        "meaning": "Diminutif de Mordékhaï ou de Mattatia."
+    },
+    {
+        "name": "Mattatia",
+        "meaning": "Cadeau de D'ieu."
+    },
+    {
+        "name": "Mattitiahou",
+        "meaning": "C'est un cadeau de D'ieu."
+    },
+    {
+        "name": "Méâdi",
+        "meaning": "De ma parure."
+    },
+    {
+        "name": "Méchoulam",
+        "meaning": "Déjà payè."
+    },
+    {
+        "name": "Médane",
+        "meaning": "Qui juge."
+    },
+    {
+        "name": "Méhoudar",
+        "meaning": "L'embelli."
+    },
+    {
+        "name": "Meïr",
+        "meaning": "Il éclaire."
+    },
+    {
+        "name": "Mélèkh",
+        "meaning": "Roi."
+    },
+    {
+        "name": "Ménaché",
+        "meaning": "Il s'est souvenu."
+    },
+    {
+        "name": "Ménahem",
+        "meaning": "Le consolateur."
+    },
+    {
+        "name": "Méni",
+        "meaning": "Diminutif de Ménahem."
+    },
+    {
+        "name": "Méôudane",
+        "meaning": "Délicat."
+    },
+    {
+        "name": "Mérari",
+        "meaning": "Amer. Un des fils de Lévi."
+    },
+    {
+        "name": "Méraya",
+        "meaning": "Myrrhe de D'ieu. Prêtre du temps de Joachim."
+    },
+    {
+        "name": "Mérèd",
+        "meaning": "Qui se révolte. Homme de la tribu de Yéhouda (Juda)."
+    },
+    {
+        "name": "Micha",
+        "meaning": "Diminutif de Michaèl. Homme de la tribu de Benjamin."
+    },
+    {
+        "name": "Michaèl",
+        "meaning": "Qui Demande."
+    },
+    {
+        "name": "Michéâm",
+        "meaning": "Qui appartient au peuple. Homme de la tribu de Benjamin."
+    },
+    {
+        "name": "Michemâ",
+        "meaning": "Qui entend. Homme de la tribu de Chimône."
+    },
+    {
+        "name": "Migdal",
+        "meaning": "Tour."
+    },
+    {
+        "name": "Mikha",
+        "meaning": "Diminutif de Mikhaèl."
+    },
+    {
+        "name": "Mikhaèl,",
+        "meaning": "Qui est comme D'ieu."
+    },
+    {
+        "name": "Mikhayahou",
+        "meaning": "Qui est comme D'ieu. Prêtre du temps de Néhémie."
+    },
+    {
+        "name": "Minyamine",
+        "meaning": "De la droite. Prêtre du temps de Néhémie."
+    },
+    {
+        "name": "Mivsam",
+        "meaning": "Parfumé. Descendant de Chimône."
+    },
+    {
+        "name": "Mivtsar",
+        "meaning": "La forteresse. Prince descendant d'Esaü."
+    },
+    {
+        "name": "Mochè,",
+        "meaning": "Tiré des eaux. Moise."
+    },
+    {
+        "name": "Molid",
+        "meaning": "Celui qui enfante. Homme de la tribu de Yéhouda (Juda)."
+    },
+    {
+        "name": "Morane,",
+        "meaning": "Leur myrrhe."
+    },
+    {
+        "name": "Mordékhaï,",
+        "meaning": "Parfum de liberté. Qui se révolte."
+    },
+    {
+        "name": "Morièl",
+        "meaning": "Myrrhe de D'ieu."
+    },
+    {
+        "name": "Mouchi",
+        "meaning": "Celui qui bouge. Petit-fils de Lévi."
+    },
+    {
+        "name": "Naâm",
+        "meaning": "Agréable. Descendant de Qalèv."
+    },
+    {
+        "name": "Naâmane",
+        "meaning": "Plaisant, aimable. Descendant de Benjamin."
+    },
+    {
+        "name": "Naâraï",
+        "meaning": "Mes jeunes gens. Guerrier du roi David, Chron. I, 11-27."
+    },
+    {
+        "name": "Nadav",
+        "meaning": "Généreux. Fils du Grand-Prêtre, Ex. 6-13."
+    },
+    {
+        "name": "Nadir",
+        "meaning": "Rare."
+    },
+    {
+        "name": "Nadiv",
+        "meaning": "Généreux."
+    },
+    {
+        "name": "Naftali",
+        "meaning": "J'ai lutté contre ma soeur et j'ai gagné. Fils de Yaâqov (Jacob)."
+    },
+    {
+        "name": "Nahat",
+        "meaning": "Calme."
+    },
+    {
+        "name": "Nahchone",
+        "meaning": "Homme téméraire. Prince de la tribu de Yéhouda."
+    },
+    {
+        "name": "Nahlièl",
+        "meaning": "Héritage de D'ieu."
+    },
+    {
+        "name": "Nahmane",
+        "meaning": "Consolateur."
+    },
+    {
+        "name": "Nahoum",
+        "meaning": "Il console."
+    },
+    {
+        "name": "Naîm,",
+        "meaning": "Agréable."
+    },
+    {
+        "name": "Naor",
+        "meaning": "Lumineux"
+    },
+    {
+        "name": "Naqdimone",
+        "meaning": "Allons de l'avant. Homme de Jérusalem du temps de la destruction du 2ème Temple."
+    },
+    {
+        "name": "Narkisse",
+        "meaning": "Narcisse."
+    },
+    {
+        "name": "Natane",
+        "meaning": "Il a donné."
+    },
+    {
+        "name": "Natanèl",
+        "meaning": "D'ieu a donné."
+    },
+    {
+        "name": "Natanièl",
+        "meaning": "D'ieu m'a donné."
+    },
+    {
+        "name": "Nati",
+        "meaning": "Diminutif de Natane ou Natanèl."
+    },
+    {
+        "name": "Navone",
+        "meaning": "Raisonnable. Sensé."
+    },
+    {
+        "name": "Navote",
+        "meaning": "Flammes. Possesseur d'une vigne à Jezréel."
+    },
+    {
+        "name": "Né'edar",
+        "meaning": "Magnifique."
+    },
+    {
+        "name": "Né'émane",
+        "meaning": "Fidèle."
+    },
+    {
+        "name": "Néaria",
+        "meaning": "Jeune homme de D'ieu. Descendant de Zéroubabel."
+    },
+    {
+        "name": "Nédavia",
+        "meaning": "Don de D'ieu. Fils de Joachim, roi de Yéhouda."
+    },
+    {
+        "name": "Neder",
+        "meaning": "Veux."
+    },
+    {
+        "name": "Néhèmia",
+        "meaning": "D'ieu console."
+    },
+    {
+        "name": "Némouèl",
+        "meaning": "Parole de D'ieu."
+    },
+    {
+        "name": "Nèr",
+        "meaning": "Bougie."
+    },
+    {
+        "name": "Néria",
+        "meaning": "Bougie de D'ieu."
+    },
+    {
+        "name": "Nériad",
+        "meaning": "Bougie éternelle."
+    },
+    {
+        "name": "Ness",
+        "meaning": "Miracle. Étendard."
+    },
+    {
+        "name": "Nétan'èl",
+        "meaning": "D'ieu a donné."
+    },
+    {
+        "name": "Nétanièl",
+        "meaning": "D'ieu m'a donné."
+    },
+    {
+        "name": "Nétanyahou",
+        "meaning": "D'ieu m'a donné. Descendant du roi David."
+    },
+    {
+        "name": "Netsah,",
+        "meaning": "Éternité. Victoire."
+    },
+    {
+        "name": "Nétsiah",
+        "meaning": "Éternité. Victoire."
+    },
+    {
+        "name": "Névate",
+        "meaning": "Il bourgeonne. Père de Jéroboam."
+    },
+    {
+        "name": "Nikhbad",
+        "meaning": "Honorable."
+    },
+    {
+        "name": "Nimchi",
+        "meaning": "Ma tache de rousseur. Grand-père du roi Jéhu."
+    },
+    {
+        "name": "Nir",
+        "meaning": "Labour."
+    },
+    {
+        "name": "Niria",
+        "meaning": "Labour de D'ieu."
+    },
+    {
+        "name": "Nirièl,",
+        "meaning": "Labour de D'ieu."
+    },
+    {
+        "name": "Nissane",
+        "meaning": "Nom de mois babylonien correspondant au mois d'avril."
+    },
+    {
+        "name": "Nissim",
+        "meaning": "Miracles."
+    },
+    {
+        "name": "Nitsane",
+        "meaning": "Bourgeon."
+    },
+    {
+        "name": "Niv",
+        "meaning": "Propos."
+    },
+    {
+        "name": "Nivi,",
+        "meaning": "Prophétique. Revenant de Babylone."
+    },
+    {
+        "name": "Noadiya,",
+        "meaning": "Destiné de D'ieu."
+    },
+    {
+        "name": "Noah",
+        "meaning": "Repos. Facile. Commode."
+    },
+    {
+        "name": "Noâm",
+        "meaning": "Plaisant. Mélodieux."
+    },
+    {
+        "name": "Noâz",
+        "meaning": "Courageux."
+    },
+    {
+        "name": "Nofar",
+        "meaning": "Nénuphar."
+    },
+    {
+        "name": "Noga",
+        "meaning": "Clarté."
+    },
+    {
+        "name": "Noune",
+        "meaning": "Perpétuation, quatorzième lettre de l'alphabet. Père de Josué."
+    },
+    {
+        "name": "Nouria",
+        "meaning": "Feu de D'ieu."
+    },
+    {
+        "name": "Nourièl",
+        "meaning": "Feu de D'ieu."
+    },
+    {
+        "name": "Novah",
+        "meaning": "Il aboie. Homme de la tribu de Ménachè."
+    },
+    {
+        "name": "Ochèr",
+        "meaning": "Bonheur."
+    },
+    {
+        "name": "Ochri",
+        "meaning": "Mon Bonheur."
+    },
+    {
+        "name": "Ochrièl",
+        "meaning": "D'ieu est mon bonheur."
+    },
+    {
+        "name": "Ôded",
+        "meaning": "Encourager."
+    },
+    {
+        "name": "Ôfèr",
+        "meaning": "Faon."
+    },
+    {
+        "name": "Ofir",
+        "meaning": "Petit fils de Êvèr."
+    },
+    {
+        "name": "Ôfri",
+        "meaning": "Mon faon."
+    },
+    {
+        "name": "Ohad",
+        "meaning": "Sympatique."
+    },
+    {
+        "name": "Ohèl",
+        "meaning": "Tente."
+    },
+    {
+        "name": "Ohèv",
+        "meaning": "Il aime."
+    },
+    {
+        "name": "Ômèr",
+        "meaning": "Gerbe."
+    },
+    {
+        "name": "Ômri",
+        "meaning": "Ma Gerbe."
+    },
+    {
+        "name": "Ônèg",
+        "meaning": "Délice. Plaisir."
+    },
+    {
+        "name": "Or",
+        "meaning": "Lumière."
+    },
+    {
+        "name": "Orane",
+        "meaning": "Lumineux."
+    },
+    {
+        "name": "Ordane",
+        "meaning": "Lumière de jugement."
+    },
+    {
+        "name": "Orène",
+        "meaning": "Pin."
+    },
+    {
+        "name": "Orgad",
+        "meaning": "Lumière de chance."
+    },
+    {
+        "name": "Ori",
+        "meaning": "Ma lumière."
+    },
+    {
+        "name": "Oriane",
+        "meaning": "Étude."
+    },
+    {
+        "name": "Orli",
+        "meaning": "Lumière pour moi."
+    },
+    {
+        "name": "Ortal",
+        "meaning": "Lumière de rosée."
+    },
+    {
+        "name": "Otni",
+        "meaning": "Réconforte-moi. Lévite à l'époque du roi David."
+    },
+    {
+        "name": "Otnièl",
+        "meaning": "D'ieu m'a réconforté."
+    },
+    {
+        "name": "Otsar",
+        "meaning": "Trésor."
+    },
+    {
+        "name": "Oudi",
+        "meaning": "Mon tison (avec un Alef au début du mot)."
+    },
+    {
+        "name": "Ôudi",
+        "meaning": "Mon luth (avec un Âyin au début du mot)."
+    },
+    {
+        "name": "Ouri",
+        "meaning": "Mon feu."
+    },
+    {
+        "name": "Ouria",
+        "meaning": "Flamme de D'ieu."
+    },
+    {
+        "name": "Ourièl",
+        "meaning": "Flamme de D'ieu."
+    },
+    {
+        "name": "Outaï",
+        "meaning": "Mon réconfort. Descendant de Yéhouda."
+    },
+    {
+        "name": "Ôuzi",
+        "meaning": "Ma bravoure. Mon audace."
+    },
+    {
+        "name": "Ôuzia",
+        "meaning": "Force de D'ieu. Guerrier du roi David."
+    },
+    {
+        "name": "Ôuzièl",
+        "meaning": "Mon audace ou ma bravoure sont de D'ieu."
+    },
+    {
+        "name": "Ôvadia",
+        "meaning": "Serviteur de D'ieu."
+    },
+    {
+        "name": "Ôvèd,",
+        "meaning": "Serviteur. Travailleur."
+    },
+    {
+        "name": "Paâraï",
+        "meaning": "Mes différences. Guerrier du roi David."
+    },
+    {
+        "name": "Paguièl",
+        "meaning": "D'ieu m'a touché. Prince de la tribu d'Acher."
+    },
+    {
+        "name": "Palti",
+        "meaning": "Mon refuge."
+    },
+    {
+        "name": "Paltièl",
+        "meaning": "D'ieu est mon refuge."
+    },
+    {
+        "name": "Pazi",
+        "meaning": "Mon or pur. Père de Hillel."
+    },
+    {
+        "name": "Pédahèl",
+        "meaning": "D'ieu a délivré. Prince de la tribu de Naftali."
+    },
+    {
+        "name": "Pédate",
+        "meaning": "La délivrance. Père d'un maître du Talmoud."
+    },
+    {
+        "name": "Pédatsour",
+        "meaning": "D'ieu a délivré. Père du prince de la tribu de Ménaché."
+    },
+    {
+        "name": "Pédaya",
+        "meaning": "D'ieu a délivré. Beau-père du roi Osias."
+    },
+    {
+        "name": "Pédoute",
+        "meaning": "Délivrance."
+    },
+    {
+        "name": "Pèlèg",
+        "meaning": "Cours d'eau. Fils d'Evèr."
+    },
+    {
+        "name": "Pélè",
+        "meaning": "Miracle."
+    },
+    {
+        "name": "Pélai",
+        "meaning": "Mon miracle."
+    },
+    {
+        "name": "Pénouèl",
+        "meaning": "Visage de D'ieu. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Péqah",
+        "meaning": "Il ouvre les yeux. Fils de Remalayou, roi d'Israèl."
+    },
+    {
+        "name": "Pérets",
+        "meaning": "Qui fait irruption."
+    },
+    {
+        "name": "Pétahiya",
+        "meaning": "Porte de D'ieu. Lévi du temps d'Ezra."
+    },
+    {
+        "name": "Pinhas",
+        "meaning": "Visage de pitié."
+    },
+    {
+        "name": "Pliya",
+        "meaning": "Miracle de D'ieu. Lévi du temps d'Ezra."
+    },
+    {
+        "name": "Qacheti",
+        "meaning": "Mon arc."
+    },
+    {
+        "name": "Qadmièl",
+        "meaning": "D'ieu me fait progresser. Lévite revenant de Babylone."
+    },
+    {
+        "name": "Qalèv",
+        "meaning": "Comme le coeur. Un des douze explorateurs."
+    },
+    {
+        "name": "Qatane",
+        "meaning": "Petit. Père d'un revenant de Babylone."
+    },
+    {
+        "name": "Qayine",
+        "meaning": "Acheté, premier fils d'Adame."
+    },
+    {
+        "name": "Qélaya",
+        "meaning": "D'ieu me rend léger. Lévite parmi les revenants de Babylone."
+    },
+    {
+        "name": "Qénane",
+        "meaning": "dérivé de Qayine. Petit-fils d'Adam."
+    },
+    {
+        "name": "Qénaz",
+        "meaning": "Alors il acquit. Père du juge Otnièl."
+    },
+    {
+        "name": "Qérène",
+        "meaning": "Corne. Rayon. Fond."
+    },
+    {
+        "name": "Raâmiya",
+        "meaning": "Tonnerre de D'ieu. Revenant de Babylone."
+    },
+    {
+        "name": "Raânane",
+        "meaning": "Frais. Vigoureux."
+    },
+    {
+        "name": "Raba",
+        "meaning": "Le maître. Maître du Talmud de Babylone."
+    },
+    {
+        "name": "Radaï",
+        "meaning": "Contraction de Red et Ya. D'ieu descend. Un des frères du roi David."
+    },
+    {
+        "name": "Rafa",
+        "meaning": "Il guérit. Descendant de Yéhouda."
+    },
+    {
+        "name": "Rafi",
+        "meaning": "Diminutif de Raphaël."
+    },
+    {
+        "name": "Rafou",
+        "meaning": "Guéri. Père de Palti l'explorateur."
+    },
+    {
+        "name": "Rahamim",
+        "meaning": "Miséricorde."
+    },
+    {
+        "name": "Ram",
+        "meaning": "Élevé."
+    },
+    {
+        "name": "Rami",
+        "meaning": "Ma Hauteur."
+    },
+    {
+        "name": "Ramiya",
+        "meaning": "D'ieu est levé. Revenant de Babylone."
+    },
+    {
+        "name": "Ramone",
+        "meaning": "Élevé."
+    },
+    {
+        "name": "Rane",
+        "meaning": "Chant. Allégresse."
+    },
+    {
+        "name": "Rani",
+        "meaning": "Mon Chant."
+    },
+    {
+        "name": "Ratsone",
+        "meaning": "Volonté."
+    },
+    {
+        "name": "Rava",
+        "meaning": "Maître du Talmud de Babylone."
+    },
+    {
+        "name": "Razièl",
+        "meaning": "Secret de D'ieu."
+    },
+    {
+        "name": "Réaiya",
+        "meaning": "Une preuve. Descendant de Réouvène."
+    },
+    {
+        "name": "Réèlaya",
+        "meaning": "Un ami pour D'ieu. Revenant de Babylone."
+    },
+    {
+        "name": "Réfaèl",
+        "meaning": "D'ieu a guéri."
+    },
+    {
+        "name": "Réfaya",
+        "meaning": "D'ieu a guéri."
+    },
+    {
+        "name": "Réguèm",
+        "meaning": "Monceau de pierres. Fils de Qalèv."
+    },
+    {
+        "name": "Réhoum",
+        "meaning": "Il est miséricordieux. Lévi de l'époque de Néhémie."
+    },
+    {
+        "name": "Réi",
+        "meaning": "Idée. Berger. Mon compagnon. Ministre du roi David."
+    },
+    {
+        "name": "Rémaliyahou",
+        "meaning": "D'ieu est bonté. Dérivé de Gamlièl. Père de Pékah, roi d'Israèl."
+    },
+    {
+        "name": "Rémèz",
+        "meaning": "Allusion."
+    },
+    {
+        "name": "Réoubène",
+        "meaning": "Voyez un Fils."
+    },
+    {
+        "name": "Réôuèl",
+        "meaning": "Ami de D'ieu."
+    },
+    {
+        "name": "Réou",
+        "meaning": "L'ami. Petit-fils de Êvèr."
+    },
+    {
+        "name": "Réqèm",
+        "meaning": "Broderie. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Rétsine",
+        "meaning": "Volontés. Revenant de Babylone."
+    },
+    {
+        "name": "Rimone",
+        "meaning": "Grenade."
+    },
+    {
+        "name": "Ro'î",
+        "meaning": "Mon berger (avec la lettre Âyine)."
+    },
+    {
+        "name": "Roii",
+        "meaning": "Ma vue (avec la lettre Alef)."
+    },
+    {
+        "name": "Roche",
+        "meaning": "Guide. Fils de Benyamine."
+    },
+    {
+        "name": "Roè",
+        "meaning": "Il voit. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Romèm",
+        "meaning": "Elevé."
+    },
+    {
+        "name": "Rone",
+        "meaning": "Chant. Allégresse."
+    },
+    {
+        "name": "Ronène",
+        "meaning": "Il Jubile."
+    },
+    {
+        "name": "Roni",
+        "meaning": "Mon Chant."
+    },
+    {
+        "name": "Ronia",
+        "meaning": "Chant de D'ieu."
+    },
+    {
+        "name": "Rotèm",
+        "meaning": "Genêt."
+    },
+    {
+        "name": "Saâdia",
+        "meaning": "Aide de D'ieu. Chef de l'Académie Talmudique de Soura."
+    },
+    {
+        "name": "Safra",
+        "meaning": "Scribe. Maître du Talmud de Babylone."
+    },
+    {
+        "name": "Sagui",
+        "meaning": "Grand. Puissant."
+    },
+    {
+        "name": "Saguiv",
+        "meaning": "Élevé."
+    },
+    {
+        "name": "Sakhar",
+        "meaning": "Salaire. Loyer."
+    },
+    {
+        "name": "Salmone",
+        "meaning": "Mes paix. Descendant de Yéhouda."
+    },
+    {
+        "name": "Sarid",
+        "meaning": "Survivant. Nom de lieu."
+    },
+    {
+        "name": "Sarig",
+        "meaning": "Rameau."
+    },
+    {
+        "name": "Sassone",
+        "meaning": "Joie."
+    },
+    {
+        "name": "Savir",
+        "meaning": "Raisonable."
+    },
+    {
+        "name": "Séguèv",
+        "meaning": "Puissance."
+    },
+    {
+        "name": "Séguiv",
+        "meaning": "Élevé, sublime. Fils de Hièl."
+    },
+    {
+        "name": "Sélèd",
+        "meaning": "Gloire. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Séraya",
+        "meaning": "Les princes de D'ieu. Scribe du roi David."
+    },
+    {
+        "name": "Sérayahou",
+        "meaning": "Princes de D'ieu. Ministre du roi Joachim."
+    },
+    {
+        "name": "Sérèd",
+        "meaning": "Tresse. Fils de Zévouloune."
+    },
+    {
+        "name": "Simhoni",
+        "meaning": "Ma petite joie."
+    },
+    {
+        "name": "Sitri",
+        "meaning": "Mon secret. Descendant de Lévi."
+    },
+    {
+        "name": "Snaï",
+        "meaning": "Écureuil. Revenant de Babylone."
+    },
+    {
+        "name": "Snir",
+        "meaning": "Un des noms du mont Hermone."
+    },
+    {
+        "name": "Sodi",
+        "meaning": "Mon secret. Père de Gaddièl l'explorateur."
+    },
+    {
+        "name": "Tadmor",
+        "meaning": "Du mot tamar (palmier)."
+    },
+    {
+        "name": "Tahane",
+        "meaning": "Supplication. Descendant d'Éfrayim."
+    },
+    {
+        "name": "Tal",
+        "meaning": "Rosée."
+    },
+    {
+        "name": "Tali",
+        "meaning": "Ma rosée. Mon Agneau."
+    },
+    {
+        "name": "Talmaï",
+        "meaning": "Mes sillons."
+    },
+    {
+        "name": "Talmi",
+        "meaning": "Mon sillon."
+    },
+    {
+        "name": "Talmone",
+        "meaning": "Qui compte la rosée."
+    },
+    {
+        "name": "Télèm",
+        "meaning": "Rosée de l'eau. Lévite du temps d'Êzra (avec Tèt)."
+    },
+    {
+        "name": "Telma",
+        "meaning": "Le Sud. Fils d'Yismaêl."
+    },
+    {
+        "name": "Tèma",
+        "meaning": "Le Sud. Fils d'Ismaèl. Père du maître du Talmud, Yéhouda."
+    },
+    {
+        "name": "Tilone",
+        "meaning": "Petite promenade. Descendant de Yéhouda."
+    },
+    {
+        "name": "Timni",
+        "meaning": "Huitième, Descendant de Yéhouda."
+    },
+    {
+        "name": "Timor",
+        "meaning": "Élancé."
+    },
+    {
+        "name": "Tiqwa",
+        "meaning": "Espérance. Beau-père de la prophétesse Houlda."
+    },
+    {
+        "name": "Tiroche",
+        "meaning": "Vin nouveau."
+    },
+    {
+        "name": "Tola",
+        "meaning": "Etoffe pourpre. Juge fils de Poua."
+    },
+    {
+        "name": "Tomèr",
+        "meaning": "Palmier."
+    },
+    {
+        "name": "Touvia",
+        "meaning": "Bonté de D'ieu. Un des noms de Mochè."
+    },
+    {
+        "name": "Tov",
+        "meaning": "Bon. Lévite du temps de Yéhochapat."
+    },
+    {
+        "name": "Tovi",
+        "meaning": "Mon gentil."
+    },
+    {
+        "name": "Tsadoq",
+        "meaning": "Juste. Prêtre au temps de David."
+    },
+    {
+        "name": "Tsalaf",
+        "meaning": "Câprier. Reconstructeur de Jérusalem."
+    },
+    {
+        "name": "Tsalèl",
+        "meaning": "Ombre de D'ieu."
+    },
+    {
+        "name": "Tséfanya",
+        "meaning": "Secret de D'ieu. Prophète Sophonie."
+    },
+    {
+        "name": "Tsélèq",
+        "meaning": "Balafre. Guerrier du roi David."
+    },
+    {
+        "name": "Tsélofahad",
+        "meaning": "Ombre de la peur. Descendant de Ménaché."
+    },
+    {
+        "name": "Tsemah",
+        "meaning": "Végètation."
+    },
+    {
+        "name": "Tsémah",
+        "meaning": "Plante. Nom évoqué dans les visions de Zakharie."
+    },
+    {
+        "name": "Tsérète",
+        "meaning": "Petite forme, étroitesse. Soucis. Descendant de Yéhouda."
+    },
+    {
+        "name": "Tsfone",
+        "meaning": "Caché, secret. Fils de Gad."
+    },
+    {
+        "name": "Tsidqiyahou",
+        "meaning": "D'ieu est ma justice, Dernier roi de Yéhouda."
+    },
+    {
+        "name": "Tsione",
+        "meaning": "Sion (d'après le nom de la ville)."
+    },
+    {
+        "name": "Tsipor",
+        "meaning": "Oiseau. Père de Balaq."
+    },
+    {
+        "name": "Tsiva",
+        "meaning": "Fibre. Serviteur du roi Chaoul."
+    },
+    {
+        "name": "Tsivéône",
+        "meaning": "Couleur. Fils de Séîr."
+    },
+    {
+        "name": "Tsofi",
+        "meaning": "Visionnaire. Homme de la tribu de Lévi."
+    },
+    {
+        "name": "Tsohar",
+        "meaning": "Clarté. Fils de Chimône."
+    },
+    {
+        "name": "Tsour",
+        "meaning": "Rocher. Un des nom de D'ieu. Descendant de Benyamine."
+    },
+    {
+        "name": "Tsourichadaï",
+        "meaning": "Rocher de D'ieu Chaddaï. Père de Chloumièl, prince de la tribu de Chomône."
+    },
+    {
+        "name": "Tsourièl",
+        "meaning": "Rocher de D'ieu."
+    },
+    {
+        "name": "Tsvi",
+        "meaning": "Gazelle."
+    },
+    {
+        "name": "Yaâbéts",
+        "meaning": "Yaâqov : Il a talonné (Jacob)."
+    },
+    {
+        "name": "Yachar",
+        "meaning": "Droit."
+    },
+    {
+        "name": "Yachav-Âm",
+        "meaning": "Le peuple s'est installé. Guerrier du roi David"
+    },
+    {
+        "name": "Yachouv",
+        "meaning": "Il reviendra. Fils d'Issakhar."
+    },
+    {
+        "name": "Yada",
+        "meaning": "Il a su. Homme de la tribu de Yéhouda."
+    },
+    {
+        "name": "Yadone",
+        "meaning": "Il jugera. Reconstructeur de Jérusalem."
+    },
+    {
+        "name": "Yagli",
+        "meaning": "Il me réjouira. Père du prince de la tribu de Dan."
+    },
+    {
+        "name": "Yahazièl",
+        "meaning": "D'ieu verra. Guerrier du roi David."
+    },
+    {
+        "name": "Yahdièl",
+        "meaning": "D'ieu unira. Fils de Ménachè."
+    },
+    {
+        "name": "Yaïr",
+        "meaning": "Il éclairera."
+    },
+    {
+        "name": "Yakim",
+        "meaning": "Il préparera. Fils de Chimône."
+    },
+    {
+        "name": "Yalone",
+        "meaning": "Il passera la nuit."
+    },
+    {
+        "name": "Yamine",
+        "meaning": "La droite."
+    },
+    {
+        "name": "Yaniv",
+        "meaning": "Il prophétisera."
+    },
+    {
+        "name": "Yardène",
+        "meaning": "D'après le nom du fleuve."
+    },
+    {
+        "name": "Yariv",
+        "meaning": "Il combattra. Homme du temps d'Êzra."
+    },
+    {
+        "name": "Yarone",
+        "meaning": "Il chantera."
+    },
+    {
+        "name": "Yassisse",
+        "meaning": "Il se réjouira."
+    },
+    {
+        "name": "Yatnièl",
+        "meaning": "D'ieu me donnera. Lévi."
+    },
+    {
+        "name": "Yaval",
+        "meaning": "Rivière. Fils de Lémèkh."
+    },
+    {
+        "name": "Yavine",
+        "meaning": "Il comprendra."
+    },
+    {
+        "name": "Yéchâya",
+        "meaning": "D'ieu délivrera."
+    },
+    {
+        "name": "Yéchâyahou",
+        "meaning": "D'ieu le délivrera."
+    },
+    {
+        "name": "Yéchèr",
+        "meaning": "Il chantera. Fils de Kalèv."
+    },
+    {
+        "name": "Yéchouâ",
+        "meaning": "Délivrance."
+    },
+    {
+        "name": "Yédâya",
+        "meaning": "D'ieu saura."
+    },
+    {
+        "name": "Yédidya",
+        "meaning": "Ami de D'ieu. Autre nom de Salomon."
+    },
+    {
+        "name": "Yéhèzqèl",
+        "meaning": "D'ieu renforcera. Nom d'un prophète."
+    },
+    {
+        "name": "Yehièl",
+        "meaning": "Que Vive D'ieu."
+    },
+    {
+        "name": "Yéhiya",
+        "meaning": "D'ieu fera vivre."
+    },
+    {
+        "name": "Yéhizqiyahou",
+        "meaning": "D'ieu le renforcera."
+    },
+    {
+        "name": "Yéhochafat,",
+        "meaning": "D'ieu a jugé."
+    },
+    {
+        "name": "Yéhochapat,",
+        "meaning": "D'ieu a jugé. Roi de Yéhouda."
+    },
+    {
+        "name": "Yéhochouâ",
+        "meaning": "D'ieu Délivre. Successeur de Mochè."
+    },
+    {
+        "name": "Yéhohanane",
+        "meaning": "D'ieu a pitié. Grand Prêtre du temps d'Êzra."
+    },
+    {
+        "name": "Yéhonadav",
+        "meaning": "Don de D'ieu. Fils de Rekhav."
+    },
+    {
+        "name": "Yéhonatane",
+        "meaning": "D'ieu a donné"
+    },
+    {
+        "name": "Yéhotsadaq",
+        "meaning": "D'ieu a raison."
+    },
+    {
+        "name": "Yéhou",
+        "meaning": "Il est D'ieu."
+    },
+    {
+        "name": "Yéhouda",
+        "meaning": "Je remercierai. Fils de Yaâqov et Léa."
+    },
+    {
+        "name": "Yéhoudi",
+        "meaning": "Issu de la Tribu de Yéhouda. Juif."
+    },
+    {
+        "name": "Yéhoyadâ",
+        "meaning": "D'ieu a su. Prêtre du temps du roi Josias."
+    },
+    {
+        "name": "Yéhoyakhine",
+        "meaning": "D'ieu préparera. Fils de Joachim roi de Yéhouda."
+    },
+    {
+        "name": "Yéhoyakim",
+        "meaning": "D'ieu fera lever. Roi de Yéhouda."
+    },
+    {
+        "name": "Yéhoyariv",
+        "meaning": "D'ieu combattra. Prêtre du temps de Chaoul."
+    },
+    {
+        "name": "Yékoutièl",
+        "meaning": "Ils espéreront en D'ieu. Un des nom de Moché."
+    },
+    {
+        "name": "Yéqamiya",
+        "meaning": "D'ieu élèvera. Fils de Yékhonia roi de Yéhouda."
+    },
+    {
+        "name": "Yérah",
+        "meaning": "Le mois. Fils de Yoqane."
+    },
+    {
+        "name": "Yérahmièl",
+        "meaning": "D'ieu aura pitié. Homme de la tribu de Réouvène."
+    },
+    {
+        "name": "Yéred",
+        "meaning": "Il fera descendre. Un des noms de Mochè."
+    },
+    {
+        "name": "Yérivaï",
+        "meaning": "Mes combats. Guerrier du roi David."
+    },
+    {
+        "name": "Yéoham",
+        "meaning": "Il sera pardonné. Père d'Elkana."
+    },
+    {
+        "name": "Yéroubaâl",
+        "meaning": "Ville du maître. Surnon du juge Guidône."
+    },
+    {
+        "name": "Yichaï",
+        "meaning": "Il y a un cadeau. Père du roi David."
+    },
+    {
+        "name": "Yichemâya",
+        "meaning": "D'ieu entendra. Guerrier du roi David."
+    },
+    {
+        "name": "Yicheméraï",
+        "meaning": "Il me gardera. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Yichevi",
+        "meaning": "Il sera mon équivalent. Fils d'Acher."
+    },
+    {
+        "name": "Yido",
+        "meaning": "Sa main. Son lancer. Prinde du temps du roi David."
+    },
+    {
+        "name": "Yiftah",
+        "meaning": "Il ouvrira. Juge d'Israèl."
+    },
+    {
+        "name": "Yigaël",
+        "meaning": "Il sera sauvé."
+    },
+    {
+        "name": "Yigdal",
+        "meaning": "Il grandira."
+    },
+    {
+        "name": "Yiguéal",
+        "meaning": "Il sauvera. Explorateur de la tribu d'Yissakhar."
+    },
+    {
+        "name": "Yihya",
+        "meaning": "Que vive D'ieu."
+    },
+    {
+        "name": "Yimla",
+        "meaning": "Il remplira. Fils du propète Mikhayehou."
+    },
+    {
+        "name": "Yimna",
+        "meaning": "Il comptera. Fils d'Acher. Yirmiyahou, : D'ieu élèvera. Prophète Jérémie."
+    },
+    {
+        "name": "Yirmiyahou",
+        "meaning": "D'ieu élèvera. Prophète Jérémie."
+    },
+    {
+        "name": "Yisraèl",
+        "meaning": "D'ieu combattra. Autre nom de Yaâcov (Jacob)."
+    },
+    {
+        "name": "Yisraèl",
+        "meaning": "Voir Yisraèl. État du Proche-Orient."
+    },
+    {
+        "name": "Yissaskhar",
+        "meaning": "Récompense. Fils de Yaâcov (Jacob)."
+    },
+    {
+        "name": "Yitshaq",
+        "meaning": "Isaac. Il jouera. Il rira."
+    },
+    {
+        "name": "Yitshar",
+        "meaning": "Il éclairera. Fils de Qorah."
+    },
+    {
+        "name": "Yitshaq",
+        "meaning": "Isaac. Il jouera. Il rira."
+    },
+    {
+        "name": "Yivhar",
+        "meaning": "Il choisira. Fils du roi David."
+    },
+    {
+        "name": "Yivniya",
+        "meaning": "D'ieu construira. Descendant de Benyamine."
+    },
+    {
+        "name": "Yivsam",
+        "meaning": "Il parfumera. Petit-fils d'Issakhar."
+    },
+    {
+        "name": "Yizrah",
+        "meaning": "Il brillera. Ministre du roi David."
+    },
+    {
+        "name": "Yizrahiya",
+        "meaning": "D'ieu brillera. Fonctionnaire du temps de Néhémia."
+    },
+    {
+        "name": "Yizrêel",
+        "meaning": "D'ieu fera germer. Fils du prophète Osée."
+    },
+    {
+        "name": "Yoah",
+        "meaning": "D'ieu du frère. Secrétaire du roi Ézékias."
+    },
+    {
+        "name": "Yoav",
+        "meaning": "D'ieu du père. Général de l'armée du roi David."
+    },
+    {
+        "name": "Yochiviya",
+        "meaning": "D'ieu fera revenir. Homme de la tribu de Chimône."
+    },
+    {
+        "name": "Yoël",
+        "meaning": "Joél. D'ieu est D'ieu. Prophète d'Israèl."
+    },
+    {
+        "name": "Yoha",
+        "meaning": "D'ieu a pitié. Guerrier du roi David."
+    },
+    {
+        "name": "Yohaï",
+        "meaning": "D'ieu a pitié. Père de Rabbi Chimône."
+    },
+    {
+        "name": "Yohanane",
+        "meaning": "D'ieu pardonne."
+    },
+    {
+        "name": "Yona",
+        "meaning": "Colombe."
+    },
+    {
+        "name": "Yonadav",
+        "meaning": "D'ieu a fait don."
+    },
+    {
+        "name": "Yonatane",
+        "meaning": "D'ieu a donné. Fils du roi Chaoul."
+    },
+    {
+        "name": "Yoram",
+        "meaning": "D'ieu est élevé. Roi de Yéhouda."
+    },
+    {
+        "name": "Yossèf",
+        "meaning": "Joseph. Il ajoutera. Fils de Jacob et Rachel."
+    },
+    {
+        "name": "Yossi",
+        "meaning": "Diminutif de Yossèf."
+    },
+    {
+        "name": "Youdane",
+        "meaning": "D'ieu juge. Maître du Talmoud."
+    },
+    {
+        "name": "Youval",
+        "meaning": "Affluent. Descendant de Qayine et inventeur de la musique."
+    },
+    {
+        "name": "Yoyada",
+        "meaning": "D'ieu a su. Reconstructeur de Jérusalem."
+    },
+    {
+        "name": "Yozakhar",
+        "meaning": "D'ieu s'est souvenu. Serviteur de Josias."
+    },
+    {
+        "name": "Zahav",
+        "meaning": "Or."
+    },
+    {
+        "name": "Zamir",
+        "meaning": "Chant."
+    },
+    {
+        "name": "Zavdi",
+        "meaning": "Mon présent. Grand-père de Akham."
+    },
+    {
+        "name": "Zavdièl",
+        "meaning": "D'ieu est mon cadeau. Prêtre du temps d'Êzra."
+    },
+    {
+        "name": "Zéèv",
+        "meaning": "Loup."
+    },
+    {
+        "name": "Zéïtane",
+        "meaning": "Olivier. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Zékharia",
+        "meaning": "Zakarie. D'ieu s'est souvenu. Roi d'Israèl et prophète."
+    },
+    {
+        "name": "Zékhariahou",
+        "meaning": "D'ieu c'est souvenu."
+    },
+    {
+        "name": "Zékhèr",
+        "meaning": "Souvenir. Homme de la tribu de Benyamine."
+    },
+    {
+        "name": "Zémaria",
+        "meaning": "Chant de D'ieu."
+    },
+    {
+        "name": "Zérah",
+        "meaning": "Éclat de soleil. Fils de Yéhouda."
+    },
+    {
+        "name": "Zérahiya",
+        "meaning": "Éclat de D'ieu. Descendant de Pinhas."
+    },
+    {
+        "name": "Zérèm",
+        "meaning": "Courant."
+    },
+    {
+        "name": "Zévoulone",
+        "meaning": "Attachant. Zébulon, fils de Jacob et Léa."
+    },
+    {
+        "name": "Zikhri",
+        "meaning": "Mon souvenir. Petit-fils de Lévi."
+    },
+    {
+        "name": "Zimra",
+        "meaning": "Chant. Père de Rabbi Yossi"
+    },
+    {
+        "name": "Zimrane",
+        "meaning": "Chanteur. Fils d'Abraham et Kétoura."
+    },
+    {
+        "name": "Zimri",
+        "meaning": "Mon chant. Prince de la tribu de Benyamine."
+    },
+    {
+        "name": "Ziv",
+        "meaning": "Rayonnement."
+    },
+    {
+        "name": "Zohar",
+        "meaning": "Éclat. Splendeur."
+    },
+    {
+        "name": "Ada",
+        "meaning": "Parure. Une des femmes de Lémèkh."
+    },
+    {
+        "name": "Adaya",
+        "meaning": "Parure de D'ieu. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Adéma",
+        "meaning": "Ne pleure pas."
+    },
+    {
+        "name": "Adena",
+        "meaning": "Mère et maitresse."
+    },
+    {
+        "name": "Adérèt",
+        "meaning": "Splendeur."
+    },
+    {
+        "name": "Adielle",
+        "meaning": "Parure de D'ieu. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Adifa",
+        "meaning": "Préférée."
+    },
+    {
+        "name": "Âdina",
+        "meaning": "Délicate."
+    },
+    {
+        "name": "Âdite",
+        "meaning": "Petite parure ."
+    },
+    {
+        "name": "Adiva",
+        "meaning": "Aimable."
+    },
+    {
+        "name": "Adva",
+        "meaning": "Ondulation."
+    },
+    {
+        "name": "Âdy",
+        "meaning": "Ornement."
+    },
+    {
+        "name": "Ahava",
+        "meaning": "Fraternité. Amour."
+    },
+    {
+        "name": "Ahinoâm",
+        "meaning": "Frère de l'agréable. Une des femmes de David."
+    },
+    {
+        "name": "Ahouva",
+        "meaning": "L'aimée."
+    },
+    {
+        "name": "Âksa",
+        "meaning": "Cliquetis ou colère. Fille de Qalév, connue pour sa beauté."
+    },
+    {
+        "name": "Alina",
+        "meaning": "Suprême."
+    },
+    {
+        "name": "Âlissa",
+        "meaning": "Joyeuse."
+    },
+    {
+        "name": "Âliya",
+        "meaning": "Montée."
+    },
+    {
+        "name": "Aliza",
+        "meaning": "Heureuse."
+    },
+    {
+        "name": "Âlma",
+        "meaning": "Jeune fille."
+    },
+    {
+        "name": "Alona",
+        "meaning": "Chêne."
+    },
+    {
+        "name": "Alonit",
+        "meaning": "Petit chêne."
+    },
+    {
+        "name": "Âmalia",
+        "meaning": "Labeur de D'ieu."
+    },
+    {
+        "name": "Amira",
+        "meaning": "Parole (avec alèf)."
+    },
+    {
+        "name": "Âmira",
+        "meaning": "Gerbe (avec âyine)."
+    },
+    {
+        "name": "Amite",
+        "meaning": "Petite mère."
+    },
+    {
+        "name": "Amma",
+        "meaning": "Peuple en araméen."
+    },
+    {
+        "name": "Ânate",
+        "meaning": "Petite réponse. Père du juge Chamgar."
+    },
+    {
+        "name": "Ânava",
+        "meaning": "Modestie."
+    },
+    {
+        "name": "Arad",
+        "meaning": "Il a chassé."
+    },
+    {
+        "name": "Ârava",
+        "meaning": "Saule."
+    },
+    {
+        "name": "Argamane",
+        "meaning": "Pourpre."
+    },
+    {
+        "name": "Ariella",
+        "meaning": "Lion de D'ieu."
+    },
+    {
+        "name": "Arza",
+        "meaning": "Cèdre."
+    },
+    {
+        "name": "Astar",
+        "meaning": "Je cacherais."
+    },
+    {
+        "name": "Atalia",
+        "meaning": "Rosée de D'ieu. Fille d'Izévèl."
+    },
+    {
+        "name": "Âtara",
+        "meaning": "Couronne (avec Tèt). Femme de Yérahmièl."
+    },
+    {
+        "name": "Âtérèt",
+        "meaning": "Diadème (avec Tet). Abondance (avec Tav)."
+    },
+    {
+        "name": "Atsila",
+        "meaning": "Noble."
+    },
+    {
+        "name": "Âttara",
+        "meaning": "Supplication (avec Tav)."
+    },
+    {
+        "name": "Ava",
+        "meaning": "Je désire."
+    },
+    {
+        "name": "Avia",
+        "meaning": "Père de D'ieu."
+    },
+    {
+        "name": "Avichag",
+        "meaning": "Père de l'erreur. Gouvernante de David."
+    },
+    {
+        "name": "Avigaïl",
+        "meaning": "Père de la Joie. Une des femmes de David."
+    },
+    {
+        "name": "Avihaïl",
+        "meaning": "Père du courage. Masculin dans la Bible."
+    },
+    {
+        "name": "Avital",
+        "meaning": "Père de la rosée. Une des femmes de David."
+    },
+    {
+        "name": "Aviva",
+        "meaning": "Printemps."
+    },
+    {
+        "name": "Avtalia",
+        "meaning": "Père de la rosée de D'ieu."
+    },
+    {
+        "name": "Ayala",
+        "meaning": "Biche."
+    },
+    {
+        "name": "Ayélet",
+        "meaning": "Aube."
+    },
+    {
+        "name": "Azgad",
+        "meaning": "Force de la chance, masculin dans la Bible."
+    },
+    {
+        "name": "Azrièla",
+        "meaning": "D'ieu m'a aidée."
+    },
+    {
+        "name": "Basmate",
+        "meaning": "Odorante. Épouse d'Ésau, fille du roi Salomon."
+    },
+    {
+        "name": "Bat-Chabbat",
+        "meaning": "Fille du repos."
+    },
+    {
+        "name": "Bat-Chèm",
+        "meaning": "Fille du Nom."
+    },
+    {
+        "name": "Bat-Chémèche",
+        "meaning": "Ensoleillée."
+    },
+    {
+        "name": "Bat-Chévâ",
+        "meaning": "Fille du serment."
+    },
+    {
+        "name": "Bat-Chir",
+        "meaning": "Fille du chant."
+    },
+    {
+        "name": "Bat-Èl",
+        "meaning": "Fille de D'ieu."
+    },
+    {
+        "name": "Bat-Éla",
+        "meaning": "Fille de la Déesse."
+    },
+    {
+        "name": "Bat-Gal",
+        "meaning": "Fille de la vague."
+    },
+    {
+        "name": "Bat-Galim",
+        "meaning": "Fille des vagues."
+    },
+    {
+        "name": "Bat-Hayil",
+        "meaning": "Vaillante."
+    },
+    {
+        "name": "Bat-Hène",
+        "meaning": "Gracieuse."
+    },
+    {
+        "name": "Bat-Kokhva",
+        "meaning": "Fille de l'étoile."
+    },
+    {
+        "name": "Bat-Or",
+        "meaning": "Auréolée."
+    },
+    {
+        "name": "Batia",
+        "meaning": "Fille de D'ieu."
+    },
+    {
+        "name": "Béèra",
+        "meaning": "Claire (avec alèf, clarté d'une explication). Nom d'homme dans"
+    },
+    {
+        "name": "Békhora",
+        "meaning": "Aînée."
+    },
+    {
+        "name": "Békhora",
+        "meaning": "Ainée."
+    },
+    {
+        "name": "Bénate",
+        "meaning": "Construite."
+    },
+    {
+        "name": "Bérakha",
+        "meaning": "Bénédiction."
+    },
+    {
+        "name": "Béroukhia",
+        "meaning": "Bénie de D'ieu."
+    },
+    {
+        "name": "Bérouria",
+        "meaning": "Clarté de D'ieu."
+    },
+    {
+        "name": "Bessodia",
+        "meaning": "Dans le secret."
+    },
+    {
+        "name": "Bessora",
+        "meaning": "Annonce. Nouvelle."
+    },
+    {
+        "name": "Betsabée",
+        "meaning": "Femme du roi David, mère du roi Salomon."
+    },
+    {
+        "name": "Bil'ha",
+        "meaning": "Bon mélange. Servante de Rachel, mère de Dan et Naftalie."
+    },
+    {
+        "name": "Bilouia",
+        "meaning": "Enchantement de D'ieu."
+    },
+    {
+        "name": "Bina",
+        "meaning": "Sagesse."
+    },
+    {
+        "name": "Birkat",
+        "meaning": "Bénie."
+    },
+    {
+        "name": "Bitaniya",
+        "meaning": "Palais de D'ieu."
+    },
+    {
+        "name": "Bitia",
+        "meaning": "Fille de D'ieu. Fille du Pharaon qui a sauvé Mochè."
+    },
+    {
+        "name": "Borkhate",
+        "meaning": "Petit éclair."
+    },
+    {
+        "name": "Bouba",
+        "meaning": "Poupée."
+    },
+    {
+        "name": "Chafrira",
+        "meaning": "Dais."
+    },
+    {
+        "name": "Chahar",
+        "meaning": "Aube."
+    },
+    {
+        "name": "Chaï",
+        "meaning": "Cadeau."
+    },
+    {
+        "name": "Chaïli",
+        "meaning": "Mon cadeau."
+    },
+    {
+        "name": "Chakèd",
+        "meaning": "Amandier."
+    },
+    {
+        "name": "Chaltsione",
+        "meaning": "Salomé."
+    },
+    {
+        "name": "Chalva",
+        "meaning": "Sérénité."
+    },
+    {
+        "name": "Chamira",
+        "meaning": "Corindon."
+    },
+    {
+        "name": "Chamrate",
+        "meaning": "Celle qui garde."
+    },
+    {
+        "name": "Chana",
+        "meaning": "Année."
+    },
+    {
+        "name": "Chani",
+        "meaning": "Rouge. Ecarlate."
+    },
+    {
+        "name": "Chaoula",
+        "meaning": "Demandée. Féminin de Chaoul."
+    },
+    {
+        "name": "Chapira",
+        "meaning": "Belle."
+    },
+    {
+        "name": "Charonna",
+        "meaning": "Petite poésie."
+    },
+    {
+        "name": "Chayili",
+        "meaning": "Mon cadeau."
+    },
+    {
+        "name": "Chéana",
+        "meaning": "Tumultueuse."
+    },
+    {
+        "name": "Chékhina",
+        "meaning": "Présence divine."
+    },
+    {
+        "name": "Chéli",
+        "meaning": "À Moi."
+    },
+    {
+        "name": "Chémira",
+        "meaning": "Garde."
+    },
+    {
+        "name": "Chèzaf",
+        "meaning": ": Jujubier."
+    },
+    {
+        "name": "Chibolette",
+        "meaning": "Épis ou tourbillon."
+    },
+    {
+        "name": "Chifra",
+        "meaning": ": Belle. Sage-femme égyptienne."
+    },
+    {
+        "name": "Chikma",
+        "meaning": "Sycomore."
+    },
+    {
+        "name": "Chila",
+        "meaning": "Cadeau pour elle."
+    },
+    {
+        "name": "Chilga",
+        "meaning": "Neige."
+    },
+    {
+        "name": "Chilguia",
+        "meaning": "Neige de D'ieu (Blanche-Neige)."
+    },
+    {
+        "name": "Chiméat",
+        "meaning": "Celle qui écoute. Mère de Zavad."
+    },
+    {
+        "name": "Chimra",
+        "meaning": "Celle qui garde."
+    },
+    {
+        "name": "Chimrat",
+        "meaning": "Celle qui garde. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Chimria",
+        "meaning": "Garde de D'ieu."
+    },
+    {
+        "name": "Chimrit",
+        "meaning": "Celle qui garde."
+    },
+    {
+        "name": "Chir",
+        "meaning": "Chant. Poème."
+    },
+    {
+        "name": "Chira",
+        "meaning": "Chant. Poème."
+    },
+    {
+        "name": "Chiranne",
+        "meaning": "Chant. Poème."
+    },
+    {
+        "name": "Chiraz",
+        "meaning": "Chant secret."
+    },
+    {
+        "name": "Chirly",
+        "meaning": "Un chant pour moi."
+    },
+    {
+        "name": "Chirtal",
+        "meaning": "Chant de rosée."
+    },
+    {
+        "name": "Chita",
+        "meaning": "Méthode."
+    },
+    {
+        "name": "Chiviona",
+        "meaning": "Égalité."
+    },
+    {
+        "name": "Chlomit",
+        "meaning": "La paix. Petite Paix."
+    },
+    {
+        "name": "Chlomtsione",
+        "meaning": "Paix de Tsione."
+    },
+    {
+        "name": "Chochana",
+        "meaning": "Rose. Susanne."
+    },
+    {
+        "name": "Choham",
+        "meaning": "Onyx. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Chotella",
+        "meaning": "Elle plante."
+    },
+    {
+        "name": "Choula",
+        "meaning": "Diminutif de Choulamit."
+    },
+    {
+        "name": "Choulamite",
+        "meaning": "Parfaite. Originaire de Jérusalem."
+    },
+    {
+        "name": "Choulite",
+        "meaning": "Diminutif de Choulamite. Marginale."
+    },
+    {
+        "name": "Chounamite",
+        "meaning": "variante de Choulamite. Originaire de Chounam."
+    },
+    {
+        "name": "Choval",
+        "meaning": "Traînée de robe. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Dafna",
+        "meaning": "Laurier."
+    },
+    {
+        "name": "Dalia",
+        "meaning": "Branche."
+    },
+    {
+        "name": "Dalila",
+        "meaning": "Diluee."
+    },
+    {
+        "name": "Dana",
+        "meaning": "Elle Juge."
+    },
+    {
+        "name": "Dania",
+        "meaning": "D'ieu a jugé."
+    },
+    {
+        "name": "Daniella",
+        "meaning": "Jugement de D'ieu."
+    },
+    {
+        "name": "Darli",
+        "meaning": "Ma nacre."
+    },
+    {
+        "name": "Datia",
+        "meaning": "Pensée de D'ieu."
+    },
+    {
+        "name": "Daïana",
+        "meaning": "Juge. (merci patricia)"
+    },
+    {
+        "name": "Déâ",
+        "meaning": "Opinion."
+    },
+    {
+        "name": "Dégalit",
+        "meaning": "Petit palmier."
+    },
+    {
+        "name": "Délila",
+        "meaning": "Diluée, mince. Dalila."
+    },
+    {
+        "name": "Dicha",
+        "meaning": "Battage (du blé)."
+    },
+    {
+        "name": "Dimona",
+        "meaning": "Petite ressemblance."
+    },
+    {
+        "name": "Dina",
+        "meaning": "Jugement. Fille de Jacob et Léa."
+    },
+    {
+        "name": "Diqla",
+        "meaning": "Petit Palmier. Nom d'homme dans la Bible."
+    },
+    {
+        "name": "Ditsa",
+        "meaning": "Allégresse."
+    },
+    {
+        "name": "Divona",
+        "meaning": "Oursonne."
+    },
+    {
+        "name": "Donna",
+        "meaning": "Résidence."
+    },
+    {
+        "name": "Dora",
+        "meaning": "Génération."
+    },
+    {
+        "name": "Doria",
+        "meaning": "Époque de D'ieu."
+    },
+    {
+        "name": "Dorita",
+        "meaning": "Petite époque."
+    },
+    {
+        "name": "Dorite",
+        "meaning": "Petite époque."
+    },
+    {
+        "name": "Dorona",
+        "meaning": "Cadeau. Don."
+    },
+    {
+        "name": "Doumia",
+        "meaning": "Silence."
+    },
+    {
+        "name": "Dracha",
+        "meaning": "Explication."
+    },
+    {
+        "name": "Drora",
+        "meaning": "Liberté."
+    },
+    {
+        "name": "Dvora",
+        "meaning": "Abeille. Parole de D'ieu. Déborah."
+    },
+    {
+        "name": "Dvorit",
+        "meaning": "Essaim d'abeilles."
+    },
+    {
+        "name": "Eden",
+        "meaning": "Délice. Nom d'homme dans la Bible."
+    },
+    {
+        "name": "Édite",
+        "meaning": "Petite vapeur."
+    },
+    {
+        "name": "Êdna",
+        "meaning": "Jouissance. Rythme."
+    },
+    {
+        "name": "Efrate",
+        "meaning": "Je fructifierai."
+    },
+    {
+        "name": "Egla",
+        "meaning": "Génisse. Une des femmes du roi David."
+    },
+    {
+        "name": "Eival",
+        "meaning": "Épais. Fils de Yoqtane, descendant de Noé."
+    },
+    {
+        "name": "Ela",
+        "meaning": "Déesse. Pistachier."
+    },
+    {
+        "name": "Élam",
+        "meaning": "Secret. Monde. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Eldar",
+        "meaning": "D'ieu habite."
+    },
+    {
+        "name": "Eliana",
+        "meaning": "Mon D'ieu a répondu."
+    },
+    {
+        "name": "Êlichèvâ",
+        "meaning": "D'ieu est promesse."
+    },
+    {
+        "name": "Elina",
+        "meaning": "Divine."
+    },
+    {
+        "name": "Elinoï",
+        "meaning": "D'ieu est beauté."
+    },
+    {
+        "name": "Eliora",
+        "meaning": "D'ieu est lumière."
+    },
+    {
+        "name": "Elona",
+        "meaning": "Chêne."
+    },
+    {
+        "name": "Elsa",
+        "meaning": "Joyeuse."
+    },
+    {
+        "name": "Emouna",
+        "meaning": "Confiance."
+    },
+    {
+        "name": "Êrana",
+        "meaning": "Vigilante, vive."
+    },
+    {
+        "name": "Esther",
+        "meaning": "Je cacherai."
+    },
+    {
+        "name": "Éti",
+        "meaning": "Avec moi. Dimunitif d'Esther."
+    },
+    {
+        "name": "Étia",
+        "meaning": "D'ieu est avec moi."
+    },
+    {
+        "name": "Gabrièla",
+        "meaning": "Force de D'ieu."
+    },
+    {
+        "name": "Gadièla",
+        "meaning": "Agneau de D'ieu."
+    },
+    {
+        "name": "Gadite",
+        "meaning": "Petite chance. Petit chevreau."
+    },
+    {
+        "name": "Gafna",
+        "meaning": "Vigne."
+    },
+    {
+        "name": "Gal-Or",
+        "meaning": "Vague de lumière."
+    },
+    {
+        "name": "Galia",
+        "meaning": "Source de D'ieu."
+    },
+    {
+        "name": "Galit",
+        "meaning": "Petite vague. Petite source."
+    },
+    {
+        "name": "Gania",
+        "meaning": "Jardin de D'ieu."
+    },
+    {
+        "name": "Gaya",
+        "meaning": "Vallée."
+    },
+    {
+        "name": "Gayil",
+        "meaning": "Allégresse."
+    },
+    {
+        "name": "Gomère",
+        "meaning": "Il termine. Épouse du prophète Osée."
+    },
+    {
+        "name": "Guélia",
+        "meaning": "D'ieu a sauvé."
+    },
+    {
+        "name": "Guéoula",
+        "meaning": "Délivrance."
+    },
+    {
+        "name": "Guila",
+        "meaning": "Joie."
+    },
+    {
+        "name": "Guinate",
+        "meaning": "Jardinet."
+    },
+    {
+        "name": "Guiora",
+        "meaning": "Prosélyte."
+    },
+    {
+        "name": "Guitta",
+        "meaning": "Mélodie."
+    },
+    {
+        "name": "Gvira",
+        "meaning": "Dame. Reine-Mère."
+    },
+    {
+        "name": "Habouba",
+        "meaning": "Chérie."
+    },
+    {
+        "name": "Hadara",
+        "meaning": "Splendeur."
+    },
+    {
+        "name": "Hadassa",
+        "meaning": "Myrte. autre nom d'Esther."
+    },
+    {
+        "name": "Hadasse",
+        "meaning": "Myrte."
+    },
+    {
+        "name": "Hadaya",
+        "meaning": "Résonance de D'ieu."
+    },
+    {
+        "name": "Haguigua",
+        "meaning": "Petite fête."
+    },
+    {
+        "name": "Haguite",
+        "meaning": "Petite fête."
+    },
+    {
+        "name": "Haguiya",
+        "meaning": "Fête de D'ieu."
+    },
+    {
+        "name": "Haléli",
+        "meaning": "Louange."
+    },
+    {
+        "name": "Hamital",
+        "meaning": "Chaleur de la rosée."
+    },
+    {
+        "name": "Hamoutal",
+        "meaning": "Chaleur de la rosée."
+    },
+    {
+        "name": "Hana",
+        "meaning": "Gracieuse. Mère du prophète Samuel. Hanna."
+    },
+    {
+        "name": "Hani",
+        "meaning": "Gracieuse."
+    },
+    {
+        "name": "Hanita",
+        "meaning": "Petite gracieuse."
+    },
+    {
+        "name": "Hassida",
+        "meaning": "Cigogne."
+    },
+    {
+        "name": "Hassina",
+        "meaning": "Robuste."
+    },
+    {
+        "name": "Hassiya",
+        "meaning": "Pitié de D'ieu."
+    },
+    {
+        "name": "Havatsélèt",
+        "meaning": "Colchique."
+    },
+    {
+        "name": "Haviva",
+        "meaning": "Favorite."
+    },
+    {
+        "name": "Hawa",
+        "meaning": "Vivante."
+    },
+    {
+        "name": "Hayia",
+        "meaning": "Vivante."
+    },
+    {
+        "name": "Hédiya.",
+        "meaning": "Résonnance de D'ieu."
+    },
+    {
+        "name": "Hédva",
+        "meaning": "Joie."
+    },
+    {
+        "name": "Héftsiba",
+        "meaning": "Je la désire. Mère du roi Ménaché."
+    },
+    {
+        "name": "Héli",
+        "meaning": "Mon rempart."
+    },
+    {
+        "name": "Hémda",
+        "meaning": "Beauté."
+    },
+    {
+        "name": "Héna",
+        "meaning": "Grâce."
+    },
+    {
+        "name": "Hérouta",
+        "meaning": "Liberté."
+    },
+    {
+        "name": "Hiba",
+        "meaning": "Amour."
+    },
+    {
+        "name": "Hila",
+        "meaning": "Halo. Auréole."
+    },
+    {
+        "name": "Hiléni",
+        "meaning": "Grèque. Reine."
+    },
+    {
+        "name": "Hita",
+        "meaning": "Blé."
+    },
+    {
+        "name": "Hodayia",
+        "meaning": "Splendeur de D'ieu."
+    },
+    {
+        "name": "Hogla",
+        "meaning": "Perdrix. Une des cinq filles de Tsélofhad."
+    },
+    {
+        "name": "Houlda",
+        "meaning": "Belette. Prophétesse."
+    },
+    {
+        "name": "Îdite",
+        "meaning": "Parée (avec la lettre Âyin au début)."
+    },
+    {
+        "name": "Îlita",
+        "meaning": "Supérieure."
+    },
+    {
+        "name": "Îmanouèla",
+        "meaning": "D'ieu est avec nous."
+    },
+    {
+        "name": "Îra",
+        "meaning": "Ville. Nom domme dans la Bible."
+    },
+    {
+        "name": "Îrdite",
+        "meaning": "Bien éveillée."
+    },
+    {
+        "name": "Îrite",
+        "meaning": "Asphodèle (avec la lettre Âyin au début)."
+    },
+    {
+        "name": "Ichrate",
+        "meaning": "Honnêteté."
+    },
+    {
+        "name": "Idite",
+        "meaning": "Vaporeuse (avec la lettre Alef au début)."
+    },
+    {
+        "name": "Idrit",
+        "meaning": "Splendide."
+    },
+    {
+        "name": "Ila",
+        "meaning": "Origine."
+    },
+    {
+        "name": "Ilana",
+        "meaning": "Arbre."
+    },
+    {
+        "name": "Ilanit",
+        "meaning": "Rainette verte."
+    },
+    {
+        "name": "Innbal",
+        "meaning": "Clochette."
+    },
+    {
+        "name": "Innbar",
+        "meaning": "Ambre."
+    },
+    {
+        "name": "Iris",
+        "meaning": "Iris."
+    },
+    {
+        "name": "Irite",
+        "meaning": "Irlandaise (avec un alèf)."
+    },
+    {
+        "name": "Israela",
+        "meaning": "(Féeminim d'Israël)."
+    },
+    {
+        "name": "Iska",
+        "meaning": "Celle qui voit. Princesse. Autre nom de Sara"
+    },
+    {
+        "name": "Ital",
+        "meaning": "Sans rosée."
+    },
+    {
+        "name": "Jessica",
+        "meaning": "Il y a un cadeau."
+    },
+    {
+        "name": "Kabira",
+        "meaning": "Grandiose."
+    },
+    {
+        "name": "Karmella",
+        "meaning": "Verger."
+    },
+    {
+        "name": "Karmiela",
+        "meaning": "Vigne de D'ieu."
+    },
+    {
+        "name": "Karmite",
+        "meaning": "Petite vigne."
+    },
+    {
+        "name": "Kedma",
+        "meaning": "Orient."
+    },
+    {
+        "name": "Keren",
+        "meaning": "rayon, corne"
+    },
+    {
+        "name": "Kétèr",
+        "meaning": "Couronne."
+    },
+    {
+        "name": "Kinèrèt",
+        "meaning": "Petit violon. Nom du lac de Tibériade."
+    },
+    {
+        "name": "Kokhav",
+        "meaning": "Étoile"
+    },
+    {
+        "name": "Kokhava",
+        "meaning": "Étoile"
+    },
+    {
+        "name": "Kokhavit",
+        "meaning": "Petite étoile."
+    },
+    {
+        "name": "Léa",
+        "meaning": "Fatiguée. Femme de Jacob."
+    },
+    {
+        "name": "Léchème",
+        "meaning": "Opale."
+    },
+    {
+        "name": "Lèv",
+        "meaning": "Coeur."
+    },
+    {
+        "name": "Lévana",
+        "meaning": "Blanche."
+    },
+    {
+        "name": "Lévia",
+        "meaning": "Lionne."
+    },
+    {
+        "name": "Liâd",
+        "meaning": "Mon éternité."
+    },
+    {
+        "name": "Liba",
+        "meaning": "Le Coeur."
+    },
+    {
+        "name": "Libéti",
+        "meaning": "Ma fille."
+    },
+    {
+        "name": "Libi",
+        "meaning": "Mon coeur."
+    },
+    {
+        "name": "Lièl",
+        "meaning": "Mon D'ieu."
+    },
+    {
+        "name": "Lihène",
+        "meaning": "Ma grâce."
+    },
+    {
+        "name": "Lihi",
+        "meaning": "Elle est à moi."
+    },
+    {
+        "name": "Lila",
+        "meaning": "Ce qui est à moi est à elle."
+    },
+    {
+        "name": "Lilia",
+        "meaning": "Ce qui est à moi est à D'ieu."
+    },
+    {
+        "name": "Limor",
+        "meaning": "Mon parfum."
+    },
+    {
+        "name": "Linoï",
+        "meaning": "Ma beauté."
+    },
+    {
+        "name": "Linor",
+        "meaning": "Ma flamme."
+    },
+    {
+        "name": "Liora",
+        "meaning": "Ma lumière"
+    },
+    {
+        "name": "Liorit",
+        "meaning": "Ma lumière."
+    },
+    {
+        "name": "Lipaz",
+        "meaning": "Mon or pur."
+    },
+    {
+        "name": "Lirane",
+        "meaning": "Ma joie."
+    },
+    {
+        "name": "Liraz",
+        "meaning": "Mon mystère."
+    },
+    {
+        "name": "Lital",
+        "meaning": "Ma rosée."
+    },
+    {
+        "name": "Livna",
+        "meaning": "Blancheur."
+    },
+    {
+        "name": "Liyat",
+        "meaning": "Tu es à moi."
+    },
+    {
+        "name": "Lola",
+        "meaning": "À lui. À elle."
+    },
+    {
+        "name": "Maakha",
+        "meaning": "Meurtrie. Femme du roi David."
+    },
+    {
+        "name": "Maâkha",
+        "meaning": "Meurtrie. Une des femmes du roi David."
+    },
+    {
+        "name": "Maâyana",
+        "meaning": "Sa source."
+    },
+    {
+        "name": "Magui",
+        "meaning": "Magique."
+    },
+    {
+        "name": "Mahalat",
+        "meaning": "Pardon. Épouse du roi Roboam."
+    },
+    {
+        "name": "Mahla",
+        "meaning": "Pardon, indulgence, Fille de Tsélofhad."
+    },
+    {
+        "name": "Malbina",
+        "meaning": "Claire. Elle blanchit."
+    },
+    {
+        "name": "Mali",
+        "meaning": "Quoi pour moi."
+    },
+    {
+        "name": "Malka",
+        "meaning": "Reine."
+    },
+    {
+        "name": "Malkiéla",
+        "meaning": "Reine de D'ieu."
+    },
+    {
+        "name": "Malkit",
+        "meaning": "Petite reine."
+    },
+    {
+        "name": "Margalit",
+        "meaning": "Perle."
+    },
+    {
+        "name": "Marganite",
+        "meaning": "Marguerite, pâquerette."
+    },
+    {
+        "name": "Martha",
+        "meaning": "Marthe, fille de Baïtous."
+    },
+    {
+        "name": "Marva",
+        "meaning": "Sauge."
+    },
+    {
+        "name": "Matiya",
+        "meaning": "Cadeau de D'ieu."
+    },
+    {
+        "name": "Mazal",
+        "meaning": "Astre. Chance."
+    },
+    {
+        "name": "Méchoulémèt",
+        "meaning": "Parfaite. Épouse du roi Ménaché."
+    },
+    {
+        "name": "Méira",
+        "meaning": "Celle qui éclaire."
+    },
+    {
+        "name": "Meital",
+        "meaning": "Eaux de rosée."
+    },
+    {
+        "name": "Ménora",
+        "meaning": "Candélabre."
+    },
+    {
+        "name": "Méora",
+        "meaning": "Astre."
+    },
+    {
+        "name": "Mérav",
+        "meaning": "De la multitude."
+    },
+    {
+        "name": "Meshi",
+        "meaning": "la soie."
+    },
+    {
+        "name": "Mia",
+        "meaning": "Qui est de D'ieu."
+    },
+    {
+        "name": "Michaéla",
+        "meaning": "Désirée."
+    },
+    {
+        "name": "Mifraha",
+        "meaning": "Celle qui fleurit."
+    },
+    {
+        "name": "Migda",
+        "meaning": "Délice."
+    },
+    {
+        "name": "Mikhaèla",
+        "meaning": "Qui est comme D'ieu (féminin de Mikhaèl)."
+    },
+    {
+        "name": "Mikhal",
+        "meaning": "Qui est comme D'ieu."
+    },
+    {
+        "name": "Milka",
+        "meaning": "Petite reine. Nièce d'Abraham."
+    },
+    {
+        "name": "Mitalia",
+        "meaning": "De la rosée de D'ieu."
+    },
+    {
+        "name": "Molédèt",
+        "meaning": "Patrie."
+    },
+    {
+        "name": "Morague",
+        "meaning": "Herse."
+    },
+    {
+        "name": "Morane",
+        "meaning": "Réjouisseuse."
+    },
+    {
+        "name": "Moria",
+        "meaning": "Myrrhe de D'ieu. Nom du mont où eu lieu le sacrifice d'Isaac."
+    },
+    {
+        "name": "Morielle",
+        "meaning": "Myrrhe de D'ieu."
+    },
+    {
+        "name": "Myriam",
+        "meaning": "Celle qui élève. Soeur de Moïse, en français Marie."
+    },
+    {
+        "name": "Naâma",
+        "meaning": "Agréable."
+    },
+    {
+        "name": "Naâra",
+        "meaning": "Jeune fille."
+    },
+    {
+        "name": "Nahat",
+        "meaning": "Calme, nom d'homme dans la Bible."
+    },
+    {
+        "name": "Naômie",
+        "meaning": "Agréable."
+    },
+    {
+        "name": "Narkisse",
+        "meaning": "Narcisse."
+    },
+    {
+        "name": "Natanéli",
+        "meaning": "Mon D'ieu a donné."
+    },
+    {
+        "name": "Nati",
+        "meaning": "diminutif de Natanéli."
+    },
+    {
+        "name": "Nava",
+        "meaning": "Belle."
+    },
+    {
+        "name": "Nédira",
+        "meaning": "Rare."
+    },
+    {
+        "name": "Nédiva",
+        "meaning": "Généreuse."
+    },
+    {
+        "name": "Néémana",
+        "meaning": "Fidèle."
+    },
+    {
+        "name": "Néguina",
+        "meaning": "Chanson."
+    },
+    {
+        "name": "Néhama",
+        "meaning": "Consolation."
+    },
+    {
+        "name": "Néhara",
+        "meaning": "Ruisseau. Lumière."
+    },
+    {
+        "name": "Néhira",
+        "meaning": "Illumination, claire, limpide."
+    },
+    {
+        "name": "Néhoucheta",
+        "meaning": "Divineresse, femme de Joachim."
+    },
+    {
+        "name": "Neîma",
+        "meaning": "Mélodie."
+    },
+    {
+        "name": "Néri",
+        "meaning": "Ma bougie."
+    },
+    {
+        "name": "Nériya",
+        "meaning": "Bougie de D'ieu."
+    },
+    {
+        "name": "Nétâ",
+        "meaning": "Petite plante."
+    },
+    {
+        "name": "Nétali",
+        "meaning": "Ma plante."
+    },
+    {
+        "name": "Nétaniya",
+        "meaning": "D'ieu a donné."
+    },
+    {
+        "name": "Nétiya",
+        "meaning": "Plantation."
+    },
+    {
+        "name": "Nili",
+        "meaning": "Indigotier."
+    },
+    {
+        "name": "Nilite",
+        "meaning": "Indigotier."
+    },
+    {
+        "name": "Nima",
+        "meaning": "Corde d'un instrument de musique."
+    },
+    {
+        "name": "Nira",
+        "meaning": "Dentellière."
+    },
+    {
+        "name": "Niréèl",
+        "meaning": "Tisserand de D'ieu."
+    },
+    {
+        "name": "Nirite",
+        "meaning": "Petite dentellière."
+    },
+    {
+        "name": "Nissana",
+        "meaning": "Féminin de Nissane."
+    },
+    {
+        "name": "Nitsa",
+        "meaning": "Bourgeon. Étincelle."
+    },
+    {
+        "name": "Nitsana",
+        "meaning": "Bourgeon."
+    },
+    {
+        "name": "Nitsanite",
+        "meaning": "Bourgeon."
+    },
+    {
+        "name": "Nitshia",
+        "meaning": "Éternelle."
+    },
+    {
+        "name": "Nitsra",
+        "meaning": "Parole."
+    },
+    {
+        "name": "Niva",
+        "meaning": "Parole."
+    },
+    {
+        "name": "Nivi",
+        "meaning": "Ma parole."
+    },
+    {
+        "name": "Noâ",
+        "meaning": "Mouvante. Une des 5 filles de Tsélofhad."
+    },
+    {
+        "name": "Noadiya",
+        "meaning": "Destinée à D'ieu, prophétesse."
+    },
+    {
+        "name": "Noam",
+        "meaning": "Agréable (dérivé de Naomie)."
+    },
+    {
+        "name": "Nofar",
+        "meaning": "Nénufar."
+    },
+    {
+        "name": "Noféya",
+        "meaning": "Cimes de D'ieu."
+    },
+    {
+        "name": "Nofia",
+        "meaning": "Paysage de D'ieu."
+    },
+    {
+        "name": "Noga",
+        "meaning": "Lumière. Planète Vénus."
+    },
+    {
+        "name": "Noiya",
+        "meaning": "Beauté de D'ìeu."
+    },
+    {
+        "name": "Nora",
+        "meaning": "Feu."
+    },
+    {
+        "name": "Nouria",
+        "meaning": "Feu de D'ieu."
+    },
+    {
+        "name": "Nourite",
+        "meaning": "Renoncule."
+    },
+    {
+        "name": "Noya",
+        "meaning": "Beauté de D'ieu."
+    },
+    {
+        "name": "Ochra",
+        "meaning": "Bonheur."
+    },
+    {
+        "name": "Ochrate",
+        "meaning": "Bonheur."
+    },
+    {
+        "name": "Ochria",
+        "meaning": "Joie de D'ieu."
+    },
+    {
+        "name": "Ochrite",
+        "meaning": "Bonheur."
+    },
+    {
+        "name": "Oda",
+        "meaning": "Je remercierai."
+    },
+    {
+        "name": "Ôdédia",
+        "meaning": "Encouragement de D'ieu."
+    },
+    {
+        "name": "Odélia",
+        "meaning": "Je remercierai D'ieu."
+    },
+    {
+        "name": "Odéya",
+        "meaning": "Je remercierai D'ieu."
+    },
+    {
+        "name": "Ofir",
+        "meaning": "Pays de l'or."
+    },
+    {
+        "name": "Ofira",
+        "meaning": "Pays de l'or."
+    },
+    {
+        "name": "Ôfra",
+        "meaning": "Faon."
+    },
+    {
+        "name": "Ôfrate",
+        "meaning": "Faon."
+    },
+    {
+        "name": "Ômra",
+        "meaning": "Gerbe."
+    },
+    {
+        "name": "Ômrite",
+        "meaning": "Petite gerbe."
+    },
+    {
+        "name": "Ora",
+        "meaning": "Lumière."
+    },
+    {
+        "name": "Ordite",
+        "meaning": "Lumière en suffisance."
+    },
+    {
+        "name": "Oréne",
+        "meaning": "Pin."
+    },
+    {
+        "name": "Orgada",
+        "meaning": "Lumière de joie."
+    },
+    {
+        "name": "Orgal",
+        "meaning": "Vague de lumière."
+    },
+    {
+        "name": "Orguil",
+        "meaning": "Lumière de joie."
+    },
+    {
+        "name": "Oria",
+        "meaning": "Lumière de D'ieu."
+    },
+    {
+        "name": "Orilia",
+        "meaning": "Lumière pour D'ieu."
+    },
+    {
+        "name": "Orina",
+        "meaning": "Petit pin."
+    },
+    {
+        "name": "Orital",
+        "meaning": "Lunière de rosée."
+    },
+    {
+        "name": "Orite",
+        "meaning": "Petite lumière."
+    },
+    {
+        "name": "Orla",
+        "meaning": "Lumière pour elle."
+    },
+    {
+        "name": "Orli",
+        "meaning": "Lumière pour moi."
+    },
+    {
+        "name": "Orlia",
+        "meaning": "Lumière pour D'ieu."
+    },
+    {
+        "name": "Ornâ",
+        "meaning": "Lumière mouvante"
+    },
+    {
+        "name": "Orpa",
+        "meaning": "Nuque. Belle-soeur de Ruth."
+    },
+    {
+        "name": "Orpaz",
+        "meaning": "Lumière d'or."
+    },
+    {
+        "name": "Ortal",
+        "meaning": "Lumière de rosée."
+    },
+    {
+        "name": "Osnate",
+        "meaning": "Catastrophe. Fille de Dina. Femme de Joseph"
+    },
+    {
+        "name": "Otsara",
+        "meaning": "Trésor."
+    },
+    {
+        "name": "Oucha",
+        "meaning": "Bruissement, Nom d' une ville."
+    },
+    {
+        "name": "Oudate",
+        "meaning": "Petit tison."
+    },
+    {
+        "name": "Oukhama",
+        "meaning": "Mûre."
+    },
+    {
+        "name": "Ouma",
+        "meaning": "Nation."
+    },
+    {
+        "name": "Ourièla",
+        "meaning": "Lumière de D'ieu."
+    },
+    {
+        "name": "Paz",
+        "meaning": "Or pur."
+    },
+    {
+        "name": "Pédoute",
+        "meaning": "Délivrance."
+    },
+    {
+        "name": "Péèra",
+        "meaning": "Magnifique."
+    },
+    {
+        "name": "Péèrli",
+        "meaning": "Ma parure."
+    },
+    {
+        "name": "Péîla",
+        "meaning": "Active."
+    },
+    {
+        "name": "Pénina",
+        "meaning": "Perle."
+    },
+    {
+        "name": "Pérah",
+        "meaning": "Fleur."
+    },
+    {
+        "name": "Porate",
+        "meaning": "Féconde."
+    },
+    {
+        "name": "Prielle",
+        "meaning": "Fruit de D'ieu."
+    },
+    {
+        "name": "Prili",
+        "meaning": "Mon fruit."
+    },
+    {
+        "name": "Primor",
+        "meaning": "Fruit de la myrrhe."
+    },
+    {
+        "name": "Qalila",
+        "meaning": "Légère."
+    },
+    {
+        "name": "Qérène",
+        "meaning": "Rayon."
+    },
+    {
+        "name": "Qétina",
+        "meaning": "Jeunette."
+    },
+    {
+        "name": "Raânana",
+        "meaning": "Vigoureuse."
+    },
+    {
+        "name": "Rafa",
+        "meaning": "Guérir. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Rahav",
+        "meaning": "Espace, étendue. Épouse de Josué."
+    },
+    {
+        "name": "Rahèl",
+        "meaning": "Brebis. Rachel."
+    },
+    {
+        "name": "Rahèli",
+        "meaning": "Ma Brebis."
+    },
+    {
+        "name": "Rakèfète",
+        "meaning": "Cyclamen."
+    },
+    {
+        "name": "Ravit",
+        "meaning": "Abreuvée."
+    },
+    {
+        "name": "Raviv",
+        "meaning": "Averse."
+    },
+    {
+        "name": "Raviya",
+        "meaning": "Puissance de D'ieu."
+    },
+    {
+        "name": "Râya",
+        "meaning": "Ami de D'ieu."
+    },
+    {
+        "name": "Raziella",
+        "meaning": "Secret de D'ieu."
+    },
+    {
+        "name": "Réfaèla",
+        "meaning": "D'ieu a guéri."
+    },
+    {
+        "name": "Réhèla",
+        "meaning": "Brebis."
+    },
+    {
+        "name": "Rékemme",
+        "meaning": "Broderie. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Réma,",
+        "meaning": "Élevée."
+    },
+    {
+        "name": "Rénana",
+        "meaning": "Chant."
+    },
+    {
+        "name": "Réouma",
+        "meaning": "Regardez quoi. Femme de Nahor."
+    },
+    {
+        "name": "Réôute",
+        "meaning": "Amitié."
+    },
+    {
+        "name": "Réouvat",
+        "meaning": "Voyez une fille (équivalent de Réouvène)."
+    },
+    {
+        "name": "Revital",
+        "meaning": "Saturé de rosée."
+    },
+    {
+        "name": "Reviva",
+        "meaning": "Averse."
+    },
+    {
+        "name": "Ribona,",
+        "meaning": "Maîtresse."
+    },
+    {
+        "name": "Richona,",
+        "meaning": "Première."
+    },
+    {
+        "name": "Rimona,",
+        "meaning": "Grenade."
+    },
+    {
+        "name": "Rina",
+        "meaning": "Chant. Allégresse."
+    },
+    {
+        "name": "Rinate",
+        "meaning": "Jubilation."
+    },
+    {
+        "name": "Rinatia",
+        "meaning": "Chant de D'ieu."
+    },
+    {
+        "name": "Riva",
+        "meaning": "Jeune fille."
+    },
+    {
+        "name": "Rivqa",
+        "meaning": "Rassasiée."
+    },
+    {
+        "name": "Roméma",
+        "meaning": "Puissante."
+    },
+    {
+        "name": "Romia",
+        "meaning": "Hauteur de D'ieu."
+    },
+    {
+        "name": "Ronéli",
+        "meaning": "Ma joie."
+    },
+    {
+        "name": "Roni",
+        "meaning": "Mon chant."
+    },
+    {
+        "name": "Ronia",
+        "meaning": "Chant de D'ieu."
+    },
+    {
+        "name": "Ronite",
+        "meaning": "Petit Chant."
+    },
+    {
+        "name": "Rouhama",
+        "meaning": "Pardonnée."
+    },
+    {
+        "name": "Rouma",
+        "meaning": "Haute."
+    },
+    {
+        "name": "Rout",
+        "meaning": "(Ruth). Indulgente. Compatissante."
+    },
+    {
+        "name": "Saada",
+        "meaning": "Aide, assistance."
+    },
+    {
+        "name": "Saguite",
+        "meaning": "Prospérité."
+    },
+    {
+        "name": "Sahar",
+        "meaning": "Lune."
+    },
+    {
+        "name": "Salina",
+        "meaning": "Ma petite corbeille."
+    },
+    {
+        "name": "Salma",
+        "meaning": "Robe."
+    },
+    {
+        "name": "Sanesséna",
+        "meaning": "Rameau."
+    },
+    {
+        "name": "Sapira",
+        "meaning": "Saphir."
+    },
+    {
+        "name": "Sara",
+        "meaning": "Princesse. Épouse d'Abraham."
+    },
+    {
+        "name": "Saraï",
+        "meaning": "Ma princesse. Premier nom de Sara."
+    },
+    {
+        "name": "Sarina",
+        "meaning": "Petite princesse."
+    },
+    {
+        "name": "Sarite",
+        "meaning": "Petite princesse."
+    },
+    {
+        "name": "Ségoula",
+        "meaning": "Trésor."
+    },
+    {
+        "name": "Sékia",
+        "meaning": "Ornement."
+    },
+    {
+        "name": "Sélâ",
+        "meaning": "Rocher."
+    },
+    {
+        "name": "Sélaîte",
+        "meaning": "Petit rocher."
+    },
+    {
+        "name": "Séné",
+        "meaning": "Buisson."
+    },
+    {
+        "name": "Séra",
+        "meaning": "Princesse."
+    },
+    {
+        "name": "Séraya",
+        "meaning": "Princesse de D'ieu. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Shiraz",
+        "meaning": "Chant secret."
+    },
+    {
+        "name": "Shirel",
+        "meaning": "Chant de Dieu."
+    },
+    {
+        "name": "Sigal",
+        "meaning": "Violette."
+    },
+    {
+        "name": "Sigalia",
+        "meaning": "Violette de D'ieu."
+    },
+    {
+        "name": "Sigalit",
+        "meaning": "Petite violette."
+    },
+    {
+        "name": "Sigla",
+        "meaning": "Trésor."
+    },
+    {
+        "name": "Sima",
+        "meaning": "Trésor."
+    },
+    {
+        "name": "Simha,",
+        "meaning": "Joie."
+    },
+    {
+        "name": "Simhit",
+        "meaning": "Petite Joie."
+    },
+    {
+        "name": "Simhona",
+        "meaning": "La joie."
+    },
+    {
+        "name": "Simy",
+        "meaning": "Mon trésor."
+    },
+    {
+        "name": "Sinaya",
+        "meaning": "D'après Sinaï."
+    },
+    {
+        "name": "Siona",
+        "meaning": "D'après Mont Hermon."
+    },
+    {
+        "name": "Sivana",
+        "meaning": "Nom de mois babylonien correspondant au mois de juin."
+    },
+    {
+        "name": "Sivma",
+        "meaning": "Nom d'une ville."
+    },
+    {
+        "name": "Smadar",
+        "meaning": "Bourgeon."
+    },
+    {
+        "name": "Snayit",
+        "meaning": "Ecureuil au feminin."
+    },
+    {
+        "name": "Snounit",
+        "meaning": "Hirondelle."
+    },
+    {
+        "name": "Stavit",
+        "meaning": "Automnal."
+    },
+    {
+        "name": "Taâma",
+        "meaning": "Goût."
+    },
+    {
+        "name": "Tafat",
+        "meaning": "Fille du roi Chélomo."
+    },
+    {
+        "name": "Tagga",
+        "meaning": "Couronne, ornememt des lettres de la Tora."
+    },
+    {
+        "name": "Taïr,",
+        "meaning": "Éclaire."
+    },
+    {
+        "name": "Tal",
+        "meaning": "Rosée."
+    },
+    {
+        "name": "Tal-Or",
+        "meaning": "Rosée de Lumière."
+    },
+    {
+        "name": "Tal-Ora",
+        "meaning": "Rosée de Lumière."
+    },
+    {
+        "name": "Tali",
+        "meaning": "Ma Rosée. Mon agneau."
+    },
+    {
+        "name": "Talia",
+        "meaning": "Rosée de D'ieu. Agnelle."
+    },
+    {
+        "name": "Talila",
+        "meaning": "Ma rosée pour elle."
+    },
+    {
+        "name": "Talita",
+        "meaning": "Châle. Petite rosée."
+    },
+    {
+        "name": "Talma",
+        "meaning": "Sillon."
+    },
+    {
+        "name": "Tamar",
+        "meaning": "Datte."
+    },
+    {
+        "name": "Tamara",
+        "meaning": "Datte."
+    },
+    {
+        "name": "Tamma",
+        "meaning": "Intègre. Innocente."
+    },
+    {
+        "name": "Tammy",
+        "meaning": "Diminutif de Tamar."
+    },
+    {
+        "name": "Tania,",
+        "meaning": "Don de D'ieu."
+    },
+    {
+        "name": "Téchouâ",
+        "meaning": "Salut."
+    },
+    {
+        "name": "Téchoura",
+        "meaning": "Cadeau."
+    },
+    {
+        "name": "Téèna",
+        "meaning": "Figue."
+    },
+    {
+        "name": "Téhila",
+        "meaning": "Louange."
+    },
+    {
+        "name": "Téhiya",
+        "meaning": "Renaissance."
+    },
+    {
+        "name": "Téhora",
+        "meaning": "Pure."
+    },
+    {
+        "name": "Téîma",
+        "meaning": "Savoureuse."
+    },
+    {
+        "name": "Télalit",
+        "meaning": "Petite rosée."
+    },
+    {
+        "name": "Télila",
+        "meaning": "Couverte de rosée."
+    },
+    {
+        "name": "Télma",
+        "meaning": "Sillon."
+    },
+    {
+        "name": "Témara",
+        "meaning": "Datte."
+    },
+    {
+        "name": "Témima",
+        "meaning": "Intègre. Innocente."
+    },
+    {
+        "name": "Témoura",
+        "meaning": "Svelte."
+    },
+    {
+        "name": "Ténè",
+        "meaning": "Corbeille."
+    },
+    {
+        "name": "Tifèrèt",
+        "meaning": "Gloire. Magnificence."
+    },
+    {
+        "name": "Tilia",
+        "meaning": "Tilleul."
+    },
+    {
+        "name": "Timna",
+        "meaning": "Nom d'une ville."
+    },
+    {
+        "name": "Timor",
+        "meaning": "Caché. Secret."
+    },
+    {
+        "name": "Timora",
+        "meaning": "Palme. Ascension."
+    },
+    {
+        "name": "Tiqwa",
+        "meaning": "Espérance. Nom masculin dans la Bible."
+    },
+    {
+        "name": "Tirtsa",
+        "meaning": "Nom de l'une des cinq filles de Tsélofhad."
+    },
+    {
+        "name": "Tomère",
+        "meaning": "Palmier."
+    },
+    {
+        "name": "Torry",
+        "meaning": "Ma tourterelle."
+    },
+    {
+        "name": "Touchiya",
+        "meaning": "Sagacité."
+    },
+    {
+        "name": "Tova",
+        "meaning": "Gentille."
+    },
+    {
+        "name": "Tria",
+        "meaning": "Fraîche."
+    },
+    {
+        "name": "Trouda",
+        "meaning": "Affairée."
+    },
+    {
+        "name": "Tsafnat",
+        "meaning": "Cachée. Nom de Joseph en Égypte."
+    },
+    {
+        "name": "Tsafrira",
+        "meaning": "Zéphir."
+    },
+    {
+        "name": "Tsahala",
+        "meaning": "Allégresse."
+    },
+    {
+        "name": "Tsédaqa",
+        "meaning": "Intégrité."
+    },
+    {
+        "name": "Tséfiya",
+        "meaning": "Comptemplation."
+    },
+    {
+        "name": "Tsérèt",
+        "meaning": "Contrariée. Un des nom de Myriam."
+    },
+    {
+        "name": "Tsilla",
+        "meaning": "Ombre."
+    },
+    {
+        "name": "Tsiona",
+        "meaning": "Féminin de Tsione."
+    },
+    {
+        "name": "Tsipia",
+        "meaning": "Espoir."
+    },
+    {
+        "name": "Tsipora",
+        "meaning": "Oiselle. Épouse de Moïse."
+    },
+    {
+        "name": "Tsofa",
+        "meaning": "Spectatrice."
+    },
+    {
+        "name": "Tsofia",
+        "meaning": "Vigilante."
+    },
+    {
+        "name": "Tsofite",
+        "meaning": "Eclaireuse."
+    },
+    {
+        "name": "Tsourite",
+        "meaning": "Petit rocher."
+    },
+    {
+        "name": "Warda",
+        "meaning": "Rose (couleur)."
+    },
+    {
+        "name": "Wardiéla",
+        "meaning": "Rose de D'ìeu."
+    },
+    {
+        "name": "Wéred",
+        "meaning": "Rose (fleur)."
+    },
+    {
+        "name": "Yaâla",
+        "meaning": "Antilope. Gazelle."
+    },
+    {
+        "name": "Yaâra",
+        "meaning": "Rayon de miel."
+    },
+    {
+        "name": "Yaârit",
+        "meaning": "Rayon de miel. Forestier."
+    },
+    {
+        "name": "Yaêl",
+        "meaning": "Chamois."
+    },
+    {
+        "name": "Yaffa",
+        "meaning": "Belle."
+    },
+    {
+        "name": "Yahala",
+        "meaning": "Il louera."
+    },
+    {
+        "name": "Yamit",
+        "meaning": "Petite mer."
+    },
+    {
+        "name": "Yanaït",
+        "meaning": "Hellène, féminin de Yannaï l'hellénisant."
+    },
+    {
+        "name": "Yaqira",
+        "meaning": "Chère."
+    },
+    {
+        "name": "Yardéna",
+        "meaning": "Nom du fleuve Yarden (Jourdain)."
+    },
+    {
+        "name": "Yarkona",
+        "meaning": "Nom du fleuve Yarkon."
+    },
+    {
+        "name": "Yasmina",
+        "meaning": "Jasmin."
+    },
+    {
+        "name": "Yédida",
+        "meaning": "Aimée."
+    },
+    {
+        "name": "Yééla",
+        "meaning": "Gazelle."
+    },
+    {
+        "name": "Yéféfiya",
+        "meaning": "Beauté, éclat."
+    },
+    {
+        "name": "Yéhoadane",
+        "meaning": "D'ieu est un délice. Mère d'Amatsia."
+    },
+    {
+        "name": "Yéhochèva",
+        "meaning": "Serment de D'ieu. Femme de Yéhodaya."
+    },
+    {
+        "name": "Yéhoudit",
+        "meaning": "De la tribu de Yéhouda. Judith."
+    },
+    {
+        "name": "Yékoutiéla",
+        "meaning": "Espoir de D'ieu."
+    },
+    {
+        "name": "Yémima",
+        "meaning": "Droite."
+    },
+    {
+        "name": "Yéora",
+        "meaning": "Du fleuve Nil, Yéor."
+    },
+    {
+        "name": "Yéota",
+        "meaning": "Convenable."
+    },
+    {
+        "name": "Yériôt",
+        "meaning": "Tentures. Fille de Qalèv."
+    },
+    {
+        "name": "Yéroucha",
+        "meaning": "Héritage. Mère de Yotam."
+    },
+    {
+        "name": "Yichéa,",
+        "meaning": "Délivrera."
+    },
+    {
+        "name": "Yiqrat,",
+        "meaning": "Honorée, précieuse."
+    },
+    {
+        "name": "Yireat",
+        "meaning": "Crainte."
+    },
+    {
+        "name": "Yoah",
+        "meaning": "D'ieu est D'ieu."
+    },
+    {
+        "name": "Yodfat,",
+        "meaning": "Porte de la beauté."
+    },
+    {
+        "name": "Yoéla,",
+        "meaning": "D'ieu est D'ieu."
+    },
+    {
+        "name": "Yofit",
+        "meaning": "Petite beauté."
+    },
+    {
+        "name": "Yohana",
+        "meaning": "Grâce de D'ieu."
+    },
+    {
+        "name": "Yokhéved",
+        "meaning": "Gloire de D'ieu."
+    },
+    {
+        "name": "Yona",
+        "meaning": "Colombe."
+    },
+    {
+        "name": "Yossefa",
+        "meaning": "Feminin de Yosseph."
+    },
+    {
+        "name": "Yossifia",
+        "meaning": "D'ieu ajoutera."
+    },
+    {
+        "name": "Zahara",
+        "meaning": "Éclatante."
+    },
+    {
+        "name": "Zééva",
+        "meaning": "Louve."
+    },
+    {
+        "name": "Zéhava",
+        "meaning": "Dorée."
+    },
+    {
+        "name": "Zéhira",
+        "meaning": "Attentionnée. Éclatante."
+    },
+    {
+        "name": "Zémira",
+        "meaning": "Rossignol. Chant. Emondage."
+    },
+    {
+        "name": "Zévouda",
+        "meaning": "Offerte. Mère du roi Joachin."
+    },
+    {
+        "name": "Zilpa",
+        "meaning": "Celle qui coule doucement."
+    },
+    {
+        "name": "Zimra",
+        "meaning": "Chant."
+    },
+    {
+        "name": "Zimria",
+        "meaning": "Chant de D'ieu."
+    },
+    {
+        "name": "Ziva",
+        "meaning": "Rayonement. Splendeur."
+    },
+    {
+        "name": "Zivia",
+        "meaning": "Rayonement. Splendeur de D'ieu."
+    },
+    {
+        "name": "Zoharit",
+        "meaning": "Eclatante."
+    }
+]

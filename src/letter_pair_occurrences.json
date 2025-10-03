@@ -1,0 +1,2274 @@
+{
+  "letter_pair_occurrences": [
+    {
+      "count": 4252,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 4118,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 2822,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 1994,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 1566,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 1530,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 1276,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 1252,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 1128,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 1036,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 1022,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 626,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 610,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 518,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 512,
+      "first_letter": "\u05db",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 496,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 490,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 438,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 436,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 412,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 348,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 346,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 340,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 332,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 326,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 320,
+      "first_letter": "\u05db",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 300,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 290,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 288,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 282,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 278,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 268,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 264,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 256,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 238,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 230,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 228,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 220,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 212,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 206,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 200,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 196,
+      "first_letter": "\u05db",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 194,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 192,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 190,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 182,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 182,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 178,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 168,
+      "first_letter": "\u05de",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 166,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 158,
+      "first_letter": "\u05db",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 156,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 156,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 154,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 150,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 148,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 148,
+      "first_letter": "\u05db",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 146,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 144,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 142,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 140,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 132,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 130,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 124,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 122,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 120,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 118,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 114,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 114,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 114,
+      "first_letter": "\u05db",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 112,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 108,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 106,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 106,
+      "first_letter": "\u05de",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 106,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 106,
+      "first_letter": "\u05db",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 104,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 98,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 98,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 94,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 88,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 88,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 86,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 84,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 84,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 82,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 82,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 80,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 80,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 80,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 78,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 78,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 76,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 76,
+      "first_letter": "\u05db",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 76,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 74,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 72,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 70,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 70,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 70,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 70,
+      "first_letter": "\u05de",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 68,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 68,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 68,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 68,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 68,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 66,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 64,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 64,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 64,
+      "first_letter": "\u05de",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 64,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 62,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 62,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 62,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 62,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 62,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 60,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 60,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 60,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 58,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 56,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 56,
+      "first_letter": "\u05db",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 56,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 54,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 54,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 54,
+      "first_letter": "\u05de",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 54,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 54,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 52,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 52,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 52,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 52,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 50,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 50,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 50,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 50,
+      "first_letter": "\u05db",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 50,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 50,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 48,
+      "first_letter": "\u05de",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 48,
+      "first_letter": "\u05de",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 46,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 46,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 46,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 46,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 44,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 44,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 44,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 44,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 44,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 44,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 44,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 42,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 42,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 42,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 42,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 42,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 42,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 40,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 40,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 40,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 40,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 40,
+      "first_letter": "\u05db",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 38,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 38,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 38,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 38,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 36,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 36,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 36,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 36,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 36,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 36,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 36,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 34,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 34,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 34,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 34,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 34,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 34,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 34,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 32,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 32,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 32,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 32,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 32,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 30,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 30,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 30,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 30,
+      "first_letter": "\u05de",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 30,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 30,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05d5",
+      "last_letter": "\u05d2"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05de",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05de",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 28,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 26,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 26,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 26,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 26,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 24,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 22,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 20,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 20,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 20,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 20,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 20,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 20,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 20,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05db",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05de",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05db",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05dd"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 18,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05d4"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 16,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 14,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05d5"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 12,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05de",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05e1"
+    },
+    {
+      "count": 10,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05db",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 8,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05d9"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05de",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e9",
+      "last_letter": "\u05d2"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 6,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05e5"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d4",
+      "last_letter": "\u05d2"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05d1"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d0",
+      "last_letter": "\u05d2"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05de",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d2",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e7",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05d3"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 4,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05df"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d1",
+      "last_letter": "\u05d2"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e0",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d3",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d8"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05e4"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05e9"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05e2"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d0"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05ea"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05dc",
+      "last_letter": "\u05e7"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05dc"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e4",
+      "last_letter": "\u05d2"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05ea",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e8",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d9",
+      "last_letter": "\u05d2"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05e8"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d8",
+      "last_letter": "\u05e3"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e1",
+      "last_letter": "\u05da"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e2",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d7",
+      "last_letter": "\u05d6"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05d6",
+      "last_letter": "\u05d7"
+    },
+    {
+      "count": 2,
+      "first_letter": "\u05e6",
+      "last_letter": "\u05e7"
+    }
+  ]
+}
